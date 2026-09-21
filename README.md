@@ -267,7 +267,7 @@ The difficulty ... is that ...。
 
 ### Sentence 100
 
-> Eliminating the secrecy surrounding pay by openly communicating everyone’s remuneration, publicizing performance bonuses and allocating annual salary increases in a lump sum rather than spreading them out over an entire year are examples of actions that will make rewards move visible and potentially more motivating.
+> Eliminating the secrecy surrounding pay by openly communicating everyone’s remuneration, publicizing performance bonuses and allocating annual salary increases in a lump sum rather than spreading them out over an entire year are examples of actions that will make rewards more visible and potentially more motivating.
 
 > #### 原中文翻译
 > 通过公开交流每个人的薪酬，公开绩效奖金并把年度加薪一次付清，而不是分摊到全年来消除围绕薪酬的秘密，这样的行为范例会让奖励更明显，更有可能起到激励作用。

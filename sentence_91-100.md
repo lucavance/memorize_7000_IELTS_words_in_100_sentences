@@ -92,7 +92,7 @@ Already in laboratory trials they have tested strategies for neutralizing the po
 
 ## Sentence 100
 
-Eliminating the secrecy surrounding pay by openly communicating everyone’s remuneration, publicizing performance bonuses and allocating annual salary increases in a lump sum rather than spreading them out over an entire year are examples of actions that will make rewards move visible and potentially more motivating.
+Eliminating the secrecy surrounding pay by openly communicating everyone’s remuneration, publicizing performance bonuses and allocating annual salary increases in a lump sum rather than spreading them out over an entire year are examples of actions that will make rewards more visible and potentially more motivating.
 
 > 消除薪酬保密制度（通过公开沟通每个人的薪酬）、公示绩效奖金，以及将年度加薪一次性发放而非分摊到全年，这些举措都是很好的例子，它们能让奖励更加公开透明，从而可能产生更强的激励效果。
 
