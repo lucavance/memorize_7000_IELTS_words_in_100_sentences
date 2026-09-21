@@ -100,11 +100,19 @@ Operating on the same principle as wind turbines, the power in sea turbines come
 
 These discoveries have led to the field known as neuroeconomics, which studies the brain’s secrets to success in an economic environment that demands innovation and being able to do things differently from competitors.
 
-> 这些发现导致了神经经济学的出现，它研究的是在经济环境下取得成功所依赖的大脑奥秘，而这就需要创新，需要不同于竞争者的另辟蹊径。
+> 这些发现催生了一个被称为“神经经济学”的研究领域。该领域探究人们在经济环境中取得成功所涉及的大脑奥秘，而这种经济环境要求创新，也要求人们能够以不同于竞争对手的方式行事。
 
 ### 语法笔记
 
-本句的主干是 These discoveries have led to the field known as neuroeconomics。过去分词短语 known as neuroeconomics 作后置定语修饰 the field；which 引导的非限定性定语从句，修饰先行词 neuroeconomics；that 引导的限制性定语从句，修饰 secrets；innovation 和动名词结构 being able to 共同构成 demands 的并列宾语。
+本句的主干是 These discoveries have led to the field。
+
+- These discoveries 是主语；have led to 使用现在完成时，lead to 表示“导致、促成”；the field 是介词 to 的宾语。
+- known as neuroeconomics 是过去分词短语，作后置定语修饰 the field，意思是“被称为神经经济学的”，相当于 which is known as neuroeconomics。
+- which studies the brain’s secrets to success... 是非限制性定语从句，补充说明 the field known as neuroeconomics，即“神经经济学这一研究领域”。which 在从句中作主语，studies 是谓语，the brain’s secrets to success 是宾语。
+- in an economic environment... 是介词短语，说明取得成功所处的环境。
+- that demands innovation and being able to do things differently from competitors 是限制性定语从句，修饰 an economic environment，而不是 secrets。that 在从句中作主语，指代单数名词 environment，因此谓语使用 demands。
+- innovation 和 being able to do things differently from competitors 是由 and 连接的两个并列宾语，分别表示“创新”和“能够以不同于竞争对手的方式行事”。being able to do... 是动名词短语，在这里表示一种能力，并不表示动作正在进行。
+- secrets to success 中的 to 是介词，后接名词 success，表示“成功的秘诀”。
 
 ## Sentence 80
 
