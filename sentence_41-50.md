@@ -32,7 +32,7 @@ A final theory is related to group behaviour , and suggests that sea mammals can
 
 ## Sentence 44
 
-From earliest childhood we are so bound up with our system of numeration that it is a fear of imagination to consider the problems faced by early humans who had not yet developed this facility.
+From earliest childhood we are so bound up with our system of numeration that it is a feat of imagination to consider the problems faced by early humans who had not yet developed this facility.
 
 > 从幼儿时期开始，我们就与自身的计算系统密切相关，以至于考虑到还未形成这种能力的早期人类所面临的问题，仅仅是想象就让我们觉得可怕。
 
