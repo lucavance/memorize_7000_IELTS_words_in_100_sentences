@@ -282,7 +282,3 @@ The difficulty ... is that ...。
 #### 正确语法笔记
 
 由三个动名词短语组成的并列结构 Eliminating the secrecy..., publicizing performance bonuses, and allocating annual salary increases...共同构成了句子的主语。现在分词短语 surrounding pay 作后置定语，修饰 secrecy。by openly communicating everyone’s remuneration 是方式状语，解释如何消除保密。that 引导了定语从句，修饰 actions。
-
-## 参考
-
-![多伦多书苑](https://www.211cn.ca/book/100-sentences-7000-ielts-words/)
