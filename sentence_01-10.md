@@ -12,7 +12,7 @@ There is considerable debate over how we should react if we detect a signal from
 
 ## Sentence 02
 
-The two world wars, which interputed the supply of raw material from Japan, also stifled the European silk industry.
+The two world wars, which interrupted the supply of raw material from Japan, also stifled the European silk industry.
 
 > 两次世界大战中断了来自日本的原材料供应，同时也抑制了欧洲的丝绸工业。
 
