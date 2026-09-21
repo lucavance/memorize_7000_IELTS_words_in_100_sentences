@@ -42,7 +42,7 @@ One way is by organizing backstage tours, so people can be shown round the build
 
 ## Sentence 05
 
-What I’am afraid will happen is that books and magazines will all disappear, and there’ll be just rows and rows of computers.
+What I'm afraid will happen is that books and magazines will all disappear, and there’ll be just rows and rows of computers.
 
 > 我担心会发生的是，书和杂志都将消失，剩下的只有一排排电脑。
 
