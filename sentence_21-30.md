@@ -124,7 +124,7 @@ If identical twins are more similar to each other with respect to an ailment tha
 
 ## Sentence 28
 
-Finally, perhaps the most graphic expressions of self-awareness in general can be seen in the displays of range which are most common from 18 months to 3 years of age.
+Finally, perhaps the most graphic expressions of self-awareness in general can be seen in the displays of rage which are most common from 18 months to 3 years of age.
 
 > 最后，一般的自我认知最形象的表达方式大概是愤怒，这在18个月到3岁的孩子身上最为常见。
 
