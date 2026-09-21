@@ -19,9 +19,11 @@
 
 #### 正确的拼写
 
-As researchers on aging noted recently, no treatment on the market today has been proved to slow human aging-the build-up of molecular and cellular damage that increases vulnerability to infirmity as we grew older.
+As researchers on aging noted recently, no treatment on the market today has been proved to slow human aging-the build-up of molecular and cellular damage that increases vulnerability to infirmity as we grow older.
 
 > increase -> increases
+
+> grew -> grow
 
 ## 中文翻译、语法结构讲解等错误
 

@@ -72,13 +72,13 @@ Another feature that attracted a lot of attention was an interactive journey thr
 
 ## Sentence 68
 
-As researchers on aging noted recently, no treatment on the market today has been proved to slow human aging-the build-up of molecular and cellular damage that increases vulnerability to infirmity as we grew older.
+As researchers on aging noted recently, no treatment on the market today has been proved to slow human aging-the build-up of molecular and cellular damage that increases vulnerability to infirmity as we grow older.
 
 > 就像老龄化研究者最近所指出的那样，目前市面上没有一种疗法被证实可以减缓人体衰老——随着我们慢慢变老，分子与细胞损坏也逐渐增加，这就增加了我们体弱多病的几率。
 
 ### 语法笔记
 
-本句主干是 no treatment has been proved to slow human aging。句首 as 引导定语从句，修饰后面整个主句。破折号后面 the build-up ... grow older 是 human aging 的同位语，进一步解释 human aging。that 引导定语从句 that increase ... grow older修饰 the build-up of molecular and cellular damage；句末的 as 引导时间状语从句，表示“当…时候，随着”。
+本句主干是 no treatment has been proved to slow human aging。句首 as 引导定语从句，修饰后面整个主句。破折号后面 the build-up ... grow older 是 human aging 的同位语，进一步解释 human aging。that 引导定语从句 that increases ... grow older修饰 the build-up of molecular and cellular damage；句末的 as 引导时间状语从句，表示“当…时候，随着”。
 
 ## Sentence 69
 
