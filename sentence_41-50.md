@@ -62,7 +62,7 @@ We have also negotiated a range of benefits for staff such as discounted private
 
 ## Sentence 47
 
-For many enthusiasts, the ultimate flight fantasy is the jet pack, a small piece of equipment on your back which enables you to climb vertical into the air and fly forwards, backwards and turn.
+For many enthusiasts, the ultimate flight fantasy is the jet pack, a small piece of equipment on your back which enables you to climb vertically into the air and fly forwards, backwards and turn.
 
 > 对许多爱好者来说，终极飞行幻想就是喷气背包，这是一种放置在背部的小型设备，使你能够垂直升空，向前或向后飞行，也能调头转弯。
 
