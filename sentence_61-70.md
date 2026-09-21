@@ -52,7 +52,7 @@ Research also indicates that bilingual experience may help to keep the cognitive
 
 ## Sentence 66
 
-Not only was a monopoly of cinnamon becoming impossible, but the spice trade overall was diminishing in economic potential, and was eventually superseded by the raise of trade in coffee, tea, chocolate, and sugar.
+Not only was a monopoly of cinnamon becoming impossible, but the spice trade overall was diminishing in economic potential, and was eventually superseded by the rise of trade in coffee, tea, chocolate, and sugar.
 
 > 不仅肉桂的垄断变得不可能，而且香料贸易的整体经济潜力也在缩减，并最终被咖啡、茶、巧克力和糖的贸易增长所取代。
 
