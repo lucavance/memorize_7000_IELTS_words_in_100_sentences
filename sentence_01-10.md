@@ -22,7 +22,7 @@ The two world wars, which interrupted the supply of raw material from Japan, als
 
 ## Sentence 03
 
-Migration is a complex issue, and biologists define it differently, depending in part on what sorts of animals the study.
+Migration is a complex issue, and biologists define it differently, depending in part on what sorts of animals they study.
 
 > 迁徙是一个复杂的问题，生物学家对它有不同的定义，部分取决于他们研究的动物种类。
 
