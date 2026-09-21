@@ -32,7 +32,7 @@ An accident that occurred in the skies over the Grand Canyon in 1956 resulted in
 
 ## Sentence 94
 
-Tourists flock to wells in far-flung corners of north-western India to gaze in wonder at these architectural marvels from hundreds of years ago, which server as a reminder of both the ingenuity and artistry of ancient civilisations and of the value of water to human existence.
+Tourists flock to wells in far-flung corners of north-western India to gaze in wonder at these architectural marvels from hundreds of years ago, which serve as a reminder of both the ingenuity and artistry of ancient civilisations and of the value of water to human existence.
 
 > 游客们涌向印度西北部偏远角落里的水井那里，惊奇地注视着这些数百年前的建筑奇观，它们标示着古代文明的巧妙设计和艺术性，以及水对人类生存的价值。
 
