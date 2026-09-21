@@ -205,14 +205,14 @@ The difficulty ... is that ...。
 
 ### Sentence 77
 
-> Most tickets may be used for travel by Sleeper, subject to availability, and a reservation in a two-berth cabin can be made for $25, except in the case of Solo and Special tickets, which include Sleeper reservation in the fare.
+> Most tickets may be used for travel by Sleeper, subject to availability, and a reservation in a two-berth cabin can be made for £25, except in the case of Solo and Special tickets, which include Sleeper reservation in the fare.
 
 > #### 原中文翻译
 > 绝大部分车票可以用来乘坐卧铺，这要视供应情况而定，而且支付25英镑就可以预订一个双铺位隔间，但单人车票和特价车票除外，因为上述车票票价中已经包含了卧铺预订费。
 
 #### 正确中文翻译
 
-> 多数车票均可在有空位时用于预订卧铺席位。预订一间双人卧铺包厢须另付 25 美元；但 Solo 票及 Special 票除外，此两类车票的票价已包含卧铺预订费用。
+> 多数车票均可在有空位时用于预订卧铺席位。预订一间双人卧铺包厢须另付 25 英镑；但 Solo 票及 Special 票除外，此两类车票的票价已包含卧铺预订费用。
 
 ### Sentence 79
 
