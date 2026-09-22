@@ -18,7 +18,7 @@ The reasoning is that if you replenish the ice sheets and frozen waters of the h
 
 ### 语法笔记
 
-本句的主干是 The reasoning is that。其中 that 引导表语从句，表语从句中含有一个 if 条件句，句尾的 so reducing the warming of oceans and atmosphere 在条件句中作结果状语。
+本句的主干是 The reasoning is that...，that 引导表语从句。表语从句内，if you replenish... 是条件状语从句，主干是 more light will be reflected back into space。so reducing the warming of oceans and atmosphere 是表示结果的现在分词短语，说明更多光线反射回太空所带来的结果；它不属于狭义的 if 条件从句内部。
 
 ## Sentence 43
 

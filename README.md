@@ -461,6 +461,17 @@ It would seem that... 是无人称表达，句首 It 是无具体指代的虚位
 
 本句是由 so 连接的并列句，前一分句的主干是 Multiplan insurance may not cover all pre-existing medical conditions，后一分句是祈使句 be sure to check with them。在后一分句中，before you leave 是时间状语从句；that you have 引导定语从句，修饰 long-term illnesses or disabilities。Multiplan 是保险名称，them 指提供这项保险的一方。
 
+### Sentence 42
+
+> The reasoning is that if you replenish the ice sheets and frozen waters of the high latitudes, more light will be reflected back into space, so reducing the warming of oceans and atmosphere.
+
+> #### 原语法笔记
+> 本句的主干是 The reasoning is that。其中 that 引导表语从句，表语从句中含有一个 if 条件句，句尾的 so reducing the warming of oceans and atmosphere 在条件句中作结果状语。
+
+#### 正确语法笔记
+
+本句的主干是 The reasoning is that...，that 引导表语从句。表语从句内，if you replenish... 是条件状语从句，主干是 more light will be reflected back into space。so reducing the warming of oceans and atmosphere 是表示结果的现在分词短语，说明更多光线反射回太空所带来的结果；它不属于狭义的 if 条件从句内部。
+
 ### Sentence 44
 
 > From earliest childhood we are so bound up with our system of numeration that it is a feat of imagination to consider the problems faced by early humans who had not yet developed this facility.
