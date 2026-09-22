@@ -96,7 +96,7 @@ If we can understand how geography affects our health no matter where in the wor
 
 Similarly, people who collect dolls may go beyond simply enlarging their collection, and develop an interest in the way that dolls are made, or the materials that are used.
 
-> 同样，收集娃娃的人可能不只是简单地扩大他们的收藏范围，而是培养对玩偶的制作方式或使用材料的兴趣。
+> 同样，收集娃娃的人可能不只是简单地扩大他们的收藏规模，而是培养对玩偶的制作方式或使用材料的兴趣。
 
 ### 语法笔记
 

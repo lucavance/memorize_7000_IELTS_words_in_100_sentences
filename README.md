@@ -302,6 +302,17 @@ It would seem that... 是无人称表达，句首 It 是无具体指代的虚位
 
 本句以 The participants 为共同主语，weren’t told beforehand 和 were asked... 由 but 连接。whether the tunes were composed by humans or computers 是 told 所带的宾语从句。were asked 后的 to guess 与 (to) rate how much they liked each one 由 and then 连接，第二个不定式省略 to；rate 与 guess 属于同一层级，不是独立的主句谓语。how much they liked each one 作 rate 的宾语。
 
+### Sentence 30
+
+> Similarly, people who collect dolls may go beyond simply enlarging their collection, and develop an interest in the way that dolls are made, or the materials that are used.
+
+> #### 原中文翻译
+> 同样，收集娃娃的人可能不只是简单地扩大他们的收藏范围，而是培养对玩偶的制作方式或使用材料的兴趣。
+
+#### 正确中文翻译
+
+> 同样，收集娃娃的人可能不只是简单地扩大他们的收藏规模，而是培养对玩偶的制作方式或使用材料的兴趣。
+
 ### Sentence 31
 
 > He wanted to give people a feeling of suspense as they see the building first from a distance, and then close-up, and the shape of the building as a whole was that of a box.
