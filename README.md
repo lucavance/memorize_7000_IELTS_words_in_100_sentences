@@ -1077,6 +1077,17 @@ The difficulty ... is that ...。
 
 本句由 and 连接两个分句。前一分句的主干是 Participants in the online debate argued + that 宾语从句；从句的主干是 our biggest challenge is to address...，其中 to address... 作表语，address 表示着手解决或处理。后一分句使用 identify A as B 结构：A 是 our dependency on fossil fuels and unsupportive government policies，B 是 drivers of this problem。由于宾语 A 较长，原句把它放在 as drivers of this problem 之后；移动的是完整成分的排列，不能只说介词 as 被提前。
 
+### Sentence 99
+
+> Already in laboratory trials they have tested strategies for neutralizing the power of thunderstorms, and this winter they will brave real storms, equipped with an armoury of lasers that they will be pointing towards the heavens to discharge thunderclouds before lightning can strike.
+
+> #### 原语法笔记
+> 本句是 and 连接的并列句。前一分句的主干是 they have tested strategies，后一分句的主干是 they will brave real storms。for neutralising the power of thunderstorms 作后置定语修饰 strategies；过去分词短语 equipped with... can strike 表被动，作方式状语，意为“配备着”；that 引导定语从句，修饰 an armoury of lasers。
+
+#### 正确语法笔记
+
+本句是 and 连接的并列句。前一分句的主干是 they have tested strategies，后一分句的主干是 they will brave real storms。for neutralising the power of thunderstorms 作后置定语修饰 strategies；过去分词短语 equipped with... can strike 表被动，以 they 为逻辑主语，说明他们迎战雷暴时“配备着……”的伴随状态；that 引导定语从句，修饰 an armoury of lasers。
+
 ### Sentence 100
 
 > Eliminating the secrecy surrounding pay by openly communicating everyone’s remuneration, publicizing performance bonuses and allocating annual salary increases in a lump sum rather than spreading them out over an entire year are examples of actions that will make rewards more visible and potentially more motivating.

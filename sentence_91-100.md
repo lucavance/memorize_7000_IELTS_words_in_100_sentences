@@ -88,7 +88,7 @@ Already in laboratory trials they have tested strategies for neutralizing the po
 
 ### 语法笔记
 
-本句是 and 连接的并列句。前一分句的主干是 they have tested strategies，后一分句的主干是 they will brave real storms。for neutralising the power of thunderstorms 作后置定语修饰 strategies；过去分词短语 equipped with... can strike 表被动，作方式状语，意为“配备着”；that 引导定语从句，修饰 an armoury of lasers。
+本句是 and 连接的并列句。前一分句的主干是 they have tested strategies，后一分句的主干是 they will brave real storms。for neutralising the power of thunderstorms 作后置定语修饰 strategies；过去分词短语 equipped with... can strike 表被动，以 they 为逻辑主语，说明他们迎战雷暴时“配备着……”的伴随状态；that 引导定语从句，修饰 an armoury of lasers。
 
 ## Sentence 100
 
