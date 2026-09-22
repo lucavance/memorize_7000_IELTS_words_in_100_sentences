@@ -74,11 +74,11 @@ If a life span is a genetically determined biological characteristic, it is logi
 
 Participants in the online debate argued that our biggest challenge is to address the underlying causes of the agricultural system’s inability to ensure sufficient food for all, and they identified as drivers of this problem our dependency on fossil fuels and unsupportive government policies.
 
-> 在线辩论参加者认为，我们面临的最大挑战是找出农业系统无法确保所有人都能获得足够粮食的根本原因，同时还认为我们对化石燃料的依赖和政府政策的不支持是这一问题的驱动因素。
+> 在线辩论的参与者认为，我们面临的最大挑战是解决农业系统无法确保所有人都获得充足粮食的根本原因；他们指出，我们对化石燃料的依赖以及政府政策支持不足，是造成这一问题的因素。
 
 ### 语法笔记
 
-本句是由 and 连接的一个并列句。前一个分句的主干是 Participants argued+that 宾语从句，that 引导宾语从句，to address... food for all 在从句中作表语。后一个分句的主干是 they identified as drivers our dependency and government policies，分句中将介词 as 提前，实际语法结构是 they identified our dependency and government policies as drivers。
+本句由 and 连接两个分句。前一分句的主干是 Participants in the online debate argued + that 宾语从句；从句的主干是 our biggest challenge is to address...，其中 to address... 作表语，address 表示着手解决或处理。后一分句使用 identify A as B 结构：A 是 our dependency on fossil fuels and unsupportive government policies，B 是 drivers of this problem。由于宾语 A 较长，原句把它放在 as drivers of this problem 之后；移动的是完整成分的排列，不能只说介词 as 被提前。
 
 ## Sentence 99
 
