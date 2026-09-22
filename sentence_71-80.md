@@ -71,11 +71,11 @@ Education is a hiring requirement for 60% of employment opportunities, but 40% o
 
 The impression is that the logical nature of the textbooks and their comprehensive coverage of different types of examples, combined with the relative homogeneity of the class, renders work sheets unnecessary.
 
-> 给人的印象是，课本的逻辑性和其中对不同类型例子的全面涵盖，再加上学生水平相对整齐划一，使得练习册无用武之地了。
+> 给人的印象是，教材的逻辑性和对各类例子的全面涵盖，加上班级学生水平相对一致，使得额外使用练习纸没有必要。
 
 ### 语法笔记
 
-本句的主干是 The impression is that。其中 that 在此处引导表语从句，过去分词短语 combined with the relative homogeneity of the class 在表语从句中作伴随状语。
+本句的主干是 The impression is that...，that 引导表语从句。表语从句的主语包含 the logical nature of the textbooks 和 their comprehensive coverage of different types of examples 两个并列中心项；combined with the relative homogeneity of the class 是过去分词短语，补充说明相结合的条件。按形式上的主谓一致，两个并列中心项通常配 render；题文使用 renders，也可能按整体概念作意义一致处理，不能仅据此断言为本仓库的录入错误。work sheets 指练习纸或学习单；unnecessary 表示没有必要使用，而不是完全没有用处。
 
 ## Sentence 77
 
