@@ -154,6 +154,17 @@ It would seem that... 是无人称表达，句首 It 是无具体指代的虚位
 
 本句的主干是 Such material can have a serious effect on the company, supplier or customer。even where it appears comparatively trivial 是插入的状语从句，where 在这里表示抽象的情形，结合 even 表达“即使在……情况下”的让步意义；it 指 Such material。if it falls into the wrong hands 是条件状语从句。
 
+### Sentence 18
+
+> If the glass were kept hot enough, it would flow over the molten tin until the top surface was also flat, horizontal and perfectly parallel to the bottom surface.
+
+> #### 原语法笔记
+> 本句的主干是 it would flow over the molten tin。句中 if 引导条件状语从句，until 引导时间状语从句。
+
+#### 正确语法笔记
+
+本句的主干是 it would flow over the molten tin。句中 if 引导条件状语从句，until 引导时间状语从句。 If...were..., ...would... 表示设想某个条件成立时会出现的结果；在技术试验的叙述中，这种假设形式本身并不能证明该条件事实上没有满足。
+
 ### Sentence 19
 
 > It was once assumed that improvements in telecommunications would lead to more dispersal in the population as people were no longer forced into cities.

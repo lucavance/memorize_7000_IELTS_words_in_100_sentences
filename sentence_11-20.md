@@ -78,7 +78,7 @@ If the glass were kept hot enough, it would flow over the molten tin until the t
 
 ### 语法笔记
 
-本句的主干是 it would flow over the molten tin。句中 if 引导条件状语从句，until 引导时间状语从句。
+本句的主干是 it would flow over the molten tin。句中 if 引导条件状语从句，until 引导时间状语从句。 If...were..., ...would... 表示设想某个条件成立时会出现的结果；在技术试验的叙述中，这种假设形式本身并不能证明该条件事实上没有满足。
 
 ## Sentence 19
 
