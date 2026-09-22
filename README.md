@@ -71,6 +71,24 @@ As researchers on aging noted recently, no treatment on the market today has bee
 
 本句的主干是 growth is due to changes；“As far as... is concerned...”意为“对…来说；就…而言”，在本句中限定讨论范围为货物运输，并不专门表示个人观点，也可以说“So far as... is concerned...”；“to a large extent”意为“在很大程度上”，作程度状语。
 
+### Sentence 13
+
+> In order to track temporal hours during the day, inventors created sundials, which indicate time by the length or direction of the sun’s shadow.
+
+> #### 原中文翻译
+> 为了在白天记录日光时，发明家创造了靠阳光影子的长度或方向来指示时间的日晷。
+
+> #### 原语法笔记
+> 本句的主干是 inventors created sundials。句首 In order to 引导目的状语，句中 which 引导非限制性定语从句，修饰先行词 sundials。
+
+#### 正确中文翻译
+
+> 为了在白天按不等时小时计时，发明家创造了日晷，用太阳照射形成的影子的长度或方向来指示时间。
+
+#### 正确语法笔记
+
+本句的主干是 inventors created sundials。句首 In order to 引导目的状语，句中 which 引导非限制性定语从句，修饰先行词 sundials。 temporal hours 指把白昼分成十二份的计时单位，又称季节时或不等时小时；每份的时长随季节和白昼长度变化，不是固定的六十分钟。
+
 ### Sentence 14
 
 > Lee Hall’s analysis of figures comparing the times of the fires and the proportion of seed that germinated was done in a lot of detail-very impressive.

@@ -24,11 +24,11 @@ As far as goods transport is concerned, growth is due to a large extent to chang
 
 In order to track temporal hours during the day, inventors created sundials, which indicate time by the length or direction of the sun’s shadow.
 
-> 为了在白天记录日光时，发明家创造了靠阳光影子的长度或方向来指示时间的日晷。
+> 为了在白天按不等时小时计时，发明家创造了日晷，用太阳照射形成的影子的长度或方向来指示时间。
 
 ### 语法笔记
 
-本句的主干是 inventors created sundials。句首 In order to 引导目的状语，句中 which 引导非限制性定语从句，修饰先行词 sundials。
+本句的主干是 inventors created sundials。句首 In order to 引导目的状语，句中 which 引导非限制性定语从句，修饰先行词 sundials。 temporal hours 指把白昼分成十二份的计时单位，又称季节时或不等时小时；每份的时长随季节和白昼长度变化，不是固定的六十分钟。
 
 ## Sentence 14
 
