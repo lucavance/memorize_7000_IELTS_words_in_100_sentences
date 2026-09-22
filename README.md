@@ -572,7 +572,7 @@ It would seem that... 是无人称表达，句首 It 是无具体指代的虚位
 
 #### 正确语法笔记
 
-本句的主干是 they've been useful in providing information and raising awareness。even though 引导让步状语从句，从句的主干是 these maps are crude。that 引导同位语从句 noise matters ... political matter，补充说明 awareness，从句中的 it 指代 noise。
+本句前半部分的主干是 they’ve been useful in providing information and raising awareness，even though these noise maps are fairly crude 是让步状语从句。按口语中连续列举所认识到的内容来读，that 后的 noise matters、we need to deal with it 和 so it’s a political matter 可以共同说明 awareness；当前译文采用这种读法。也可以把 we need to deal with it... 理解为后续独立陈述，因此不能仅凭逗号认定 that 从句必然一直管辖到句末。deal with it 中的 it 指噪音问题；it’s a political matter 中的 it 可指同一议题，也可概括处理该问题这件事。
 
 ### Sentence 54
 
