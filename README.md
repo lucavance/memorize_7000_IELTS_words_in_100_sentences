@@ -324,6 +324,17 @@ It would seem that... 是无人称表达，句首 It 是无具体指代的虚位
 
 他希望人们在观看这座建筑时，从远处的初见到近处的细看，都能感受到一种悬念；而这座建筑的整体形状则像一个盒子。
 
+### Sentence 32
+
+> The reason often given for the low regard in which smell is held is that, in comparison with its importance among animals, the human sense of smell is feeble and undeveloped.
+
+> #### 原语法笔记
+> 本句的主干是 The reason is that，其中 that 引导表语从句。过去分词短语 often given for ... is held 作后置定语，修饰 The reason；定语从句 in which smell is held 修饰 the low regard；in comparison with 表示对比，作插入语。
+
+#### 正确语法笔记
+
+本句的主干是 The reason is that，其中 that 引导表语从句。过去分词短语 often given for ... is held 作后置定语，修饰 The reason；定语从句 in which smell is held 修饰 the low regard；完整的介词短语 in comparison with its importance among animals 作插入的比较状语，表示对比。
+
 ### Sentence 35
 
 > The continuous and reckless use of synthetic chemicals for the control of pests which pose a threat to agricultural crops and human health is proving to be counter-productive.

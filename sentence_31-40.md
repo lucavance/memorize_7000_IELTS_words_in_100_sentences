@@ -18,7 +18,7 @@ The reason often given for the low regard in which smell is held is that, in com
 
 ### 语法笔记
 
-本句的主干是 The reason is that，其中 that 引导表语从句。过去分词短语 often given for ... is held 作后置定语，修饰 The reason；定语从句 in which smell is held 修饰 the low regard；in comparison with 表示对比，作插入语。
+本句的主干是 The reason is that，其中 that 引导表语从句。过去分词短语 often given for ... is held 作后置定语，修饰 The reason；定语从句 in which smell is held 修饰 the low regard；完整的介词短语 in comparison with its importance among animals 作插入的比较状语，表示对比。
 
 ## Sentence 33
 
