@@ -14,61 +14,11 @@ It’s true there are new regulations for mercury emissions from power plants, b
 
 The teacher’s task is to assist the students to apply what they have learned paraconsciously, and in doing so to make it easily accessible to consciousness.
 
-> 教师的任务是帮助学生以准意识/半意识的方式运用他们已经学到的东西，并在这个过程中使其更容易进入意识层面。
+> 教师的任务是帮助学生运用他们在非充分自觉的状态下习得的知识，并通过这种运用，让这些知识更容易进入意识层面。
 
 ### 语法笔记
 
-本句主干：
-
-The teacher’s task is to assist ..., and to make ...
-
-结构：
-
-The teacher’s task
-
-= 主语
-
-is
-
-= 系动词
-
-to assist the students to apply what they have learned paraconsciously
-
-= 表语1，不定式短语
-
-and in doing so to make it easily accessible to consciousness
-
-= 表语2，和前面的 to assist 并列
-
-细分：
-
-assist + 宾语 + to do
-
-assist the students to apply...
-
-帮助学生去运用……
-
-what they have learned
-
-= apply 的宾语，名词性从句
-
-paraconsciously
-
-= 修饰 apply，表示“以半意识方式运用”
-
-in doing so
-
-= 在这样做的过程中，指前面的 assist/apply
-
-make it accessible
-
-= make + 宾语 + 宾补
-
-it 指 what they have learned
-
-accessible 是宾语补足语
-
-整体意思：教师的任务是帮助学生半意识地运用所学，并由此让所学更容易进入意识层面。
+本句的主干是 The teacher’s task is to assist ..., and ... to make ...。to assist the students to apply... 和 to make it easily accessible to consciousness 是由 and 连接的两个不定式短语，共同作表语。assist the students to apply... 表示“帮助学生运用……”。what they have learned paraconsciously 整体作 apply 的宾语；结合前文关于听音乐时自动习得材料的说明，paraconsciously 修饰 have learned，表示材料是在非充分自觉的状态下学到的。in doing so 指帮助学生运用所学的过程。make it easily accessible 是 make + 宾语 + 宾语补足语结构；it 指所学内容，accessible 是形容词宾补，easily 修饰 accessible，to consciousness 说明这些知识能够进入意识层面。
 
 ## Sentence 23
 
