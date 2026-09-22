@@ -44,11 +44,11 @@ Summer leaves are green because they are full of chlorophyll, the molecule that 
 
 If clothing fails to meet these standards, as determined by the employee’s supervisor, the employee will be asked not to wear the inappropriate item to work again.
 
-> 如果员工着装未能满足上司规定的这些标准，该员工将会被要求不再穿戴不适宜的服饰来工作。
+> 如果员工的着装被其上司判定为不符合这些标准，该员工将被要求今后不要再穿戴该不合适的服饰上班。
 
 ### 语法笔记
 
-本句的主干是 the employee will be asked not to wear the inappropriate item to work again。在这句话中 if 引导条件状语从句；as 引导非限制性定语从句，as 指代前一句的内容，as 后省略了 is。
+本句的主干是 the employee will be asked not to wear the inappropriate item to work again。if clothing fails to meet these standards 是条件状语从句。插入的 as determined by the employee’s supervisor 是省略结构，说明着装是否不符合标准由员工的上司判定；不能据此把 these standards 解释成由上司制定的标准。not to wear... 是 ask sb not to do sth 的被动结构中的不定式成分。
 
 ## Sentence 26
 

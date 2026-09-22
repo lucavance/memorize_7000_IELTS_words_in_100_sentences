@@ -200,6 +200,24 @@ It would seem that... 是无人称表达，句首 It 是无具体指代的虚位
 
 本句的主干是 The teacher’s task is to assist ..., and ... to make ...。to assist the students to apply... 和 to make it easily accessible to consciousness 是由 and 连接的两个不定式短语，共同作表语。assist the students to apply... 表示“帮助学生运用……”。what they have learned paraconsciously 整体作 apply 的宾语；结合前文关于听音乐时自动习得材料的说明，paraconsciously 修饰 have learned，表示材料是在非充分自觉的状态下学到的。in doing so 指帮助学生运用所学的过程。make it easily accessible 是 make + 宾语 + 宾语补足语结构；it 指所学内容，accessible 是形容词宾补，easily 修饰 accessible，to consciousness 说明这些知识能够进入意识层面。
 
+### Sentence 25
+
+> If clothing fails to meet these standards, as determined by the employee’s supervisor, the employee will be asked not to wear the inappropriate item to work again.
+
+> #### 原中文翻译
+> 如果员工着装未能满足上司规定的这些标准，该员工将会被要求不再穿戴不适宜的服饰来工作。
+
+> #### 原语法笔记
+> 本句的主干是 the employee will be asked not to wear the inappropriate item to work again。在这句话中 if 引导条件状语从句；as 引导非限制性定语从句，as 指代前一句的内容，as 后省略了 is。
+
+#### 正确中文翻译
+
+> 如果员工的着装被其上司判定为不符合这些标准，该员工将被要求今后不要再穿戴该不合适的服饰上班。
+
+#### 正确语法笔记
+
+本句的主干是 the employee will be asked not to wear the inappropriate item to work again。if clothing fails to meet these standards 是条件状语从句。插入的 as determined by the employee’s supervisor 是省略结构，说明着装是否不符合标准由员工的上司判定；不能据此把 these standards 解释成由上司制定的标准。not to wear... 是 ask sb not to do sth 的被动结构中的不定式成分。
+
 ### Sentence 31
 
 > He wanted to give people a feeling of suspense as they see the building first from a distance, and then close-up, and the shape of the building as a whole was that of a box.
