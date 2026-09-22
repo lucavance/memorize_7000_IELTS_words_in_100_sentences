@@ -58,7 +58,7 @@ Her contribution to physics had been immense, not only in her own work, the impo
 
 ### 语法笔记
 
-本句的主干是 Her contribution to physics had been immense, not only...but...。句中 which 引导的定语从句修饰先行词 her own work，此外 because of 引导原因状语。
+本句的主干是 Her contribution to physics had been immense。not only...but... 连接两方面的补充说明。the importance of which had been demonstrated by her two Nobel Prizes 是修饰 her own work 的非限制性定语从句：which 指 her own work，作介词 of 的宾语；完整的 the importance of which 才是从句的主语。because of her influence... 是表示原因的介词短语。
 
 ## Sentence 87
 

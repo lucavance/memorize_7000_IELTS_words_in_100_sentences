@@ -918,6 +918,17 @@ The difficulty ... is that ...。
 
 > 不利的一面是，这种类型的组织方式并不总是有效的，因为它过度依赖一两个高层领导人物，当这些人做了糟糕的决策时，没有人能够影响得了他们。
 
+### Sentence 86
+
+> Her contribution to physics had been immense, not only in her own work, the importance of which had been demonstrated by her two Nobel Prizes, but because of her influence on subsequent generations of nuclear physicists and chemists.
+
+> #### 原语法笔记
+> 本句的主干是 Her contribution to physics had been immense, not only...but...。句中 which 引导的定语从句修饰先行词 her own work，此外 because of 引导原因状语。
+
+#### 正确语法笔记
+
+本句的主干是 Her contribution to physics had been immense。not only...but... 连接两方面的补充说明。the importance of which had been demonstrated by her two Nobel Prizes 是修饰 her own work 的非限制性定语从句：which 指 her own work，作介词 of 的宾语；完整的 the importance of which 才是从句的主语。because of her influence... 是表示原因的介词短语。
+
 ### Sentence 87
 
 > The taxonomist sometimes overlooks whole species in favour of those groups currently under study, while the ecologist often collects only a limited number of specimens of each species, thus reducing their value for taxonomic investigations.
