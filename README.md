@@ -531,6 +531,24 @@ The difficulty ... is that ...。
 - 这里的 they 指 these studies
 - what we would today call norm-referenced 是一个 what 引导的名词性从句，整体作 are not 的表语整体作 are not 的表语，意思是“我们今天会称为‘norm-referenced’的那一类”
 
+### Sentence 74
+
+> Businesses are finding that ethnography can offer them deeper insight into the possible needs of customers, either present or future, as well as providing valuable information about their attitudes towards existing products.
+
+> #### 原中文翻译
+> 企业发现，人种学可以让其更深入地了解顾客的可能需求，无论是现在的还是未来的，也可以提供他们对现有产品相关态度的有价值的信息。
+
+> #### 原语法笔记
+> 本句的主干是 Businesses are finding + that 宾语从句。宾语从句中的 either present or future 作插入语，as well as 是介词短语，意为“也，还”，因此其后使用了动名词形式 providing valuable information。
+
+#### 正确中文翻译
+
+> 企业发现，民族志研究不仅能帮助它们更深入地了解现有或未来顾客可能的需求，还能提供有关顾客对现有产品态度的宝贵信息。
+
+#### 正确语法笔记
+
+本句的主干是 Businesses are finding + that 宾语从句。宾语从句中，them 指 Businesses，their 指 customers。either present or future 是插入的补充说明；按就近修饰 customers 理解为“现有或未来顾客”，也可能从语义上理解为“当前或未来的需求”，孤句不足以完全排除后一解读。as well as providing... 补充说明 ethnography 的另一项作用，其中 providing 用动名词形式。ethnography 在此指通过观察、访谈等了解人群生活和行为的民族志研究。
+
 ### Sentence 77
 
 > Most tickets may be used for travel by Sleeper, subject to availability, and a reservation in a two-berth cabin can be made for £25, except in the case of Solo and Special tickets, which include Sleeper reservation in the fare.
