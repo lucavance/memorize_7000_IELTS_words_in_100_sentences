@@ -54,11 +54,11 @@ While the Inuit may not actually starve if hunting and trapping are curtailed by
 
 It would seem that the brain sees these images as puzzles, and the harder it is to decipher the meaning, the more rewarding is the moment of recognition.
 
-> 似乎大脑把这些图像看成是拼图，越难解读其中的含义，识别出来时就越令人满意。
+> 大脑似乎把这些图像当作谜题；含义越难破解，恍然领会的那一刻就越令人满足。
 
 ### 语法笔记
 
-本句的主干是 It would seem that，其中 It 没有实际意义，指某种情况或现象，that 引导表语从句。表语从句中由 and 连接了两个分句，第二个分句使用了“the + 比较级…，the + 比较级…”的句型。
+It would seem that... 是无人称表达，句首 It 是无具体指代的虚位主语；that 从句说明 seem 所表达的判断内容，不能把 It 解释为某个具体情况的代词。后半部分采用 the + 比较级..., the + 比较级... 结构，表示“越……，越……”。the harder it is to decipher the meaning 中，it 是形式主语，to decipher the meaning 是后置的不定式主语；the more rewarding is the moment of recognition 中，the moment of recognition 是后置的主语，通常语序为 the more rewarding the moment of recognition is。and 可按连接两个主层分句理解；也可以把后半部分纳入 seem 所表达的判断范围，不宜只凭孤句认定唯一的并列层级。
 
 ## Sentence 17
 
