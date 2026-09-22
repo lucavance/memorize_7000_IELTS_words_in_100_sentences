@@ -34,7 +34,7 @@ Some of you suggested an Italian restaurant, but I must confess that I decided t
 
 As these ancestral tortoises settled on the individual islands, the different populations adapted to their unique environments, giving rise to at least 14 different subspecies.
 
-> 当这些最早期的龟定居在各个岛屿上时，不同的种群适应了它们独特的环境，产生了至少14个不同的亚种。
+> 当这些陆龟祖先定居于各个岛屿时，不同种群适应了各自独特的环境，由此产生了至少 14 个不同的亚种。
 
 ### 语法笔记
 

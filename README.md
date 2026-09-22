@@ -335,6 +335,17 @@ It would seem that... 是无人称表达，句首 It 是无具体指代的虚位
 
 本句的主干是 The reason is that，其中 that 引导表语从句。过去分词短语 often given for ... is held 作后置定语，修饰 The reason；定语从句 in which smell is held 修饰 the low regard；完整的介词短语 in comparison with its importance among animals 作插入的比较状语，表示对比。
 
+### Sentence 34
+
+> As these ancestral tortoises settled on the individual islands, the different populations adapted to their unique environments, giving rise to at least 14 different subspecies.
+
+> #### 原中文翻译
+> 当这些最早期的龟定居在各个岛屿上时，不同的种群适应了它们独特的环境，产生了至少14个不同的亚种。
+
+#### 正确中文翻译
+
+> 当这些陆龟祖先定居于各个岛屿时，不同种群适应了各自独特的环境，由此产生了至少 14 个不同的亚种。
+
 ### Sentence 35
 
 > The continuous and reckless use of synthetic chemicals for the control of pests which pose a threat to agricultural crops and human health is proving to be counter-productive.
