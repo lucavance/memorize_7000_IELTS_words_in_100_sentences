@@ -95,7 +95,7 @@ Opinion polls suggest that many people nurture the belief that environmental sta
 
 Natural soil fertility is dropping in many areas because of continuous industrial fertilizer and pesticide use, while the growth of algae is increasing in lakes because of the fertilizer run-off.
 
-> 由于工业肥料和杀虫剂的持续使用，许多地区的自然土壤肥力正在下降，而湖泊中的藻类则因肥料的径流而增加。
+> 由于持续使用工业肥料和杀虫剂，许多地区的天然土壤肥力正在下降；与此同时，含肥料的径流进入湖泊，使藻类生长增多。
 
 ### 语法笔记
 

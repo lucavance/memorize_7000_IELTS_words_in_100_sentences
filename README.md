@@ -414,6 +414,17 @@ It would seem that... 是无人称表达，句首 It 是无具体指代的虚位
       +---> [between perception and reality] (介词短语作后置定语，修饰 disjunction)
 ```
 
+### Sentence 38
+
+> Natural soil fertility is dropping in many areas because of continuous industrial fertilizer and pesticide use, while the growth of algae is increasing in lakes because of the fertilizer run-off.
+
+> #### 原中文翻译
+> 由于工业肥料和杀虫剂的持续使用，许多地区的自然土壤肥力正在下降，而湖泊中的藻类则因肥料的径流而增加。
+
+#### 正确中文翻译
+
+> 由于持续使用工业肥料和杀虫剂，许多地区的天然土壤肥力正在下降；与此同时，含肥料的径流进入湖泊，使藻类生长增多。
+
 ### Sentence 39
 
 > Within the span of several centuries, the Lapita stretched the boundaries of their world from the jungle-clad volcanoes of Papua New Guinea to the loneliest coral outliers of Tonga.
