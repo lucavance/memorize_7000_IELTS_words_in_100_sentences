@@ -698,6 +698,24 @@ The difficulty ... is that ...。
 
 > 日本宝塔的另一个奇特之处是：由于塔身逐层收小，每一层的平面轮廓都比下一层小，因此，支撑塔身重量的竖柱没有一根与上一层相对应的柱子相连。
 
+### Sentence 95
+
+> The antiseptic properties of tannin, the active ingredient in tea, and of hops in beer-plus the fact that both are made with boiled water-allowed urban communities to flourish at close quarters without succumbing to water-borne diseases such as dysentery.
+
+> #### 原中文翻译
+> 茶中的活性成分单宁和啤酒中的啤酒花这两种物质的抗菌性能，加上它们都是用开水制作加工的事实，使城市社群在拥挤的区域得以繁荣，免遭诸如痢疾之类的水传播疾病。
+
+> #### 原语法笔记
+> 本句的主干是 The antiseptic properties of tannin, and of hops in beer allowed urban communities to flourish。the active ingredient in tea 作同位语，解释说明 tannin；of tannin 和 of hops in beer 通过 and 构成并列结构。破折号之间的内容为插入语，对前面的内容起补充作用，其中 that 引导 the fact 的同位语从句。
+
+#### 正确中文翻译
+
+> 茶中活性成分单宁的抗菌特性、啤酒中啤酒花的抗菌特性，再加上茶和啤酒都用煮沸的水制成，使城市居民能够在密集聚居的环境中繁荣发展，而不至于罹患痢疾等水传播疾病。
+
+#### 正确语法笔记
+
+本句的主干是 The antiseptic properties of tannin, and of hops in beer allowed urban communities to flourish。the active ingredient in tea 是 tannin 的同位语；of tannin 和 of hops in beer 是并列的介词短语，共同修饰 properties。破折号之间 plus the fact... 是补充成分，that 引导同位语从句说明 the fact，其中 both 指茶和啤酒，不是单宁和啤酒花。without succumbing to... 说明城市居民繁荣发展时免于疾病侵袭的情况。
+
 ### Sentence 100
 
 > Eliminating the secrecy surrounding pay by openly communicating everyone’s remuneration, publicizing performance bonuses and allocating annual salary increases in a lump sum rather than spreading them out over an entire year are examples of actions that will make rewards more visible and potentially more motivating.
