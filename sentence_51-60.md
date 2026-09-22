@@ -64,7 +64,7 @@ What we’ve decided to present today is information about just three species-be
 
 The results of a 14-year study to be announced later this month reveal that the diseases associated with old age are afflicting fewer and fewer people and when they do strike, it is much later in life.
 
-> 这个月底即将公布的一项长达14年的研究结果显示，因老年而受疾病折磨的人越来越少，当老年病真的来袭时，已是生命垂暮之时。
+> 一项历时 14 年、结果将于本月晚些时候公布的研究表明，受到与老年相关疾病困扰的人越来越少；即使这些疾病确实发作，也是在比以往晚得多的年龄。
 
 ### 语法笔记
 

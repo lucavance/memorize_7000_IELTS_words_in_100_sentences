@@ -435,6 +435,17 @@ It would seem that... 是无人称表达，句首 It 是无具体指代的虚位
 
 > 今天我们决定只介绍三个物种的情况，因为我们认为，这三个物种能够很好地反映城乡环境中总体上正在起作用的过程。
 
+### Sentence 57
+
+> The results of a 14-year study to be announced later this month reveal that the diseases associated with old age are afflicting fewer and fewer people and when they do strike, it is much later in life.
+
+> #### 原中文翻译
+> 这个月底即将公布的一项长达14年的研究结果显示，因老年而受疾病折磨的人越来越少，当老年病真的来袭时，已是生命垂暮之时。
+
+#### 正确中文翻译
+
+> 一项历时 14 年、结果将于本月晚些时候公布的研究表明，受到与老年相关疾病困扰的人越来越少；即使这些疾病确实发作，也是在比以往晚得多的年龄。
+
 ### Sentence 61
 
 > After this, many researchers switched to autoganzfeld tests-an automated variant of the technique which used computers to perform many of the key tasks such as the random selection of images.
