@@ -604,6 +604,24 @@ The difficulty ... is that ...。
 - innovation 和 being able to do things differently from competitors 是由 and 连接的两个并列宾语，分别表示“创新”和“能够以不同于竞争对手的方式行事”。being able to do... 是动名词短语，在这里表示一种能力，并不表示动作正在进行。
 - secrets to success 中的 to 是介词，后接名词 success，表示“成功的秘诀”。
 
+### Sentence 81
+
+> By timing the transit from two widely-separated locations, teams of astronomers could calculate the parallax angle-the apparent difference in position of an astronomical body due to a difference in the observer’s position.
+
+> #### 原中文翻译
+> 通过从两个相距甚远的地方计算行星的凌日时间，天文学家小组可以计算出视差角——天体的位置由于观测者的位置不同而产生的明显差异。
+
+> #### 原语法笔记
+> 本句的主干是 teams of astronomers could calculate the parallax angle。句首 by 引导了一个方式状语；破折号后面的 the apparent difference ... in the observer's position 作 parallax angle 的同位语，解释 parallax angle，其中 due to 引导原因状语。
+
+#### 正确中文翻译
+
+> 通过在两个相距甚远的地点测定凌日发生的时间，天文学家小组可以计算出视差角——即由于观测者位置不同而产生的天体视位置差异。
+
+#### 正确语法笔记
+
+本句的主干是 teams of astronomers could calculate the parallax angle。By timing the transit from two widely-separated locations 是方式状语，timing 表示测定时间。破折号后的 the apparent difference... 是 parallax angle 的同位语。due to a difference in the observer’s position 说明视位置差异产生的原因，修饰前面的 difference；apparent 在这里表示观测到的表观位置，并非“明显的”。
+
 ### Sentence 90
 
 > This approach is summarized in the statement that it is the task of the grammarian to describe, not to prescribe-to record the facts of linguistic diversity, and not to attempt the impossible tasks of evaluating language variation or halting language change.
