@@ -24,7 +24,7 @@ Victimised pupils are more likely to experience difficulties with interpersonal 
 
 On the negative side, this type of organization doesn’t always act effectively, because it depends too much on one or two people at the top, and when these people make poor decisions there’s no-one else who can influence them.
 
-> 不利的一面是，这种类型的组织方式并不总是有效的，因为它主要依靠一两个高层领导人物，当这些人做了糟糕的决策时，没有人能够影响得了他们。
+> 不利的一面是，这种类型的组织方式并不总是有效的，因为它过度依赖一两个高层领导人物，当这些人做了糟糕的决策时，没有人能够影响得了他们。
 
 ### 语法笔记
 

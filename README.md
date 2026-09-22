@@ -907,6 +907,17 @@ The difficulty ... is that ...。
 
 > 受欺负的学生成年后更可能在人际关系方面遇到困难，而持续欺凌他人的儿童长大后更可能有肢体暴力行为，并因反社会违法行为被定罪。
 
+### Sentence 83
+
+> On the negative side, this type of organization doesn’t always act effectively, because it depends too much on one or two people at the top, and when these people make poor decisions there’s no-one else who can influence them.
+
+> #### 原中文翻译
+> 不利的一面是，这种类型的组织方式并不总是有效的，因为它主要依靠一两个高层领导人物，当这些人做了糟糕的决策时，没有人能够影响得了他们。
+
+#### 正确中文翻译
+
+> 不利的一面是，这种类型的组织方式并不总是有效的，因为它过度依赖一两个高层领导人物，当这些人做了糟糕的决策时，没有人能够影响得了他们。
+
 ### Sentence 87
 
 > The taxonomist sometimes overlooks whole species in favour of those groups currently under study, while the ecologist often collects only a limited number of specimens of each species, thus reducing their value for taxonomic investigations.
