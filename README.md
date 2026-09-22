@@ -315,6 +315,24 @@ It would seem that... 是无人称表达，句首 It 是无具体指代的虚位
 
 本句的主干是 the Lapita stretched the boundaries of their world。Within the span of several centuries 作时间状语；from the jungle-clad volcanoes of Papua New Guinea to the loneliest coral outliers of Tonga 表示扩展所跨越的地域范围，from...to... 是表示起点和终点的搭配。
 
+### Sentence 40
+
+> Multiplan insurance may not cover all pre-existing medical conditions—so before you leave be sure to check with them about any long-term illnesses or disabilities that you have.
+
+> #### 原中文翻译
+> 多重保险可能没有涵盖所有预先存在的医疗情况，所以在你离开之前，一定要与他们核对任何你有的长期疾病或残疾。
+
+> #### 原语法笔记
+> 本句是由 so 连接的并列句，前一分句的主干是 Multiplan insurance may not cover all conditions，后一分句的主干是 be sure to check with them。在后一分句中，before you leave 作时间状语；that 引导定语从句，修饰先行词 illness 和 disabilities。
+
+#### 正确中文翻译
+
+> Multiplan 保险可能并不承保所有既有疾病，因此出发前务必向该保险方核实，你所患的任何长期疾病或残疾是否在承保范围内。
+
+#### 正确语法笔记
+
+本句是由 so 连接的并列句，前一分句的主干是 Multiplan insurance may not cover all pre-existing medical conditions，后一分句是祈使句 be sure to check with them。在后一分句中，before you leave 是时间状语从句；that you have 引导定语从句，修饰 long-term illnesses or disabilities。Multiplan 是保险名称，them 指提供这项保险的一方。
+
 ### Sentence 44
 
 > From earliest childhood we are so bound up with our system of numeration that it is a feat of imagination to consider the problems faced by early humans who had not yet developed this facility.
