@@ -84,7 +84,7 @@ If the glass were kept hot enough, it would flow over the molten tin until the t
 
 It was once assumed that improvements in telecommunications would lead to more dispersal in the population as people were no longer forced into cities.
 
-> 人们曾经认为，电信的进步使人们不再被迫流向城市，这将导致人口更加分散。
+> 人们曾经认为，电信技术的进步会使人口分布更加分散，因为人们不再非得涌入城市。
 
 ### 语法笔记
 
