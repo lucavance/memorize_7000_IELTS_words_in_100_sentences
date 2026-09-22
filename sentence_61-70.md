@@ -84,11 +84,11 @@ As researchers on aging noted recently, no treatment on the market today has bee
 
 We tend to think of climate-as opposed to weather-as something unchanging, yet humanity has been at the mercy of climate change for its entire existence, with at least eight glacial episodes in the past 730,000 years.
 
-> 我们往往认为气候相对于天气而言是不变的，然而，人类的存在却一直受制于气候的变化，在过去的73万年里至少经历了8个冰河时期。
+> 我们往往认为气候相对于天气而言是不变的，然而，人类的存在却一直受制于气候的变化，在过去的73万年里至少经历了8个冰期。
 
 ### 语法笔记
 
-本句是一个 yet 连接的并列句，yet 在此处作并列连词，表示“然而”，前一分句的主干是 We tend to think of climate as something unchanging，后一分句的主干是 humanity has been at the mercy of climate change。破折号之间 as opposed to weather 作插入语，解释说明 climate。as opposed to sth. 是一个固定搭配，意为“与某事物相反”。句末的 with... in the past 730,000 years 作伴随状语。
+本句是一个 yet 连接的并列句，yet 在此处作并列连词，表示“然而”，前一分句的主干是 We tend to think of climate as something unchanging，后一分句的主干是 humanity has been at the mercy of climate change。破折号之间 as opposed to weather 作插入语，解释说明 climate。as opposed to sth. 是一个固定搭配，在这里用于区分两种概念，意为“与……相区别”，并不表示气候与天气的性质相反。句末的 with... in the past 730,000 years 作伴随状语。
 
 ## Sentence 70
 
