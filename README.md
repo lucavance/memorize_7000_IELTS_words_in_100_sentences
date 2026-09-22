@@ -124,6 +124,17 @@ As researchers on aging noted recently, no treatment on the market today has bee
       +---> [between perception and reality] (介词短语作后置定语，修饰 disjunction)
 ```
 
+### Sentence 44
+
+> From earliest childhood we are so bound up with our system of numeration that it is a feat of imagination to consider the problems faced by early humans who had not yet developed this facility.
+
+> #### 原中文翻译
+> 从幼儿时期开始，我们就与自身的计算系统密切相关，以至于考虑到还未形成这种能力的早期人类所面临的问题，仅仅是想象就让我们觉得可怕。
+
+#### 正确中文翻译
+
+> 我们从幼年起就与自己的计数系统密不可分，因此，要设想尚未具备计数能力的早期人类所面临的问题，需要相当强的想象力。
+
 ### Sentence 51
 
 > They think the population of Rapa Nui grew rapidly and then remained more or less stable until the arrival of the Europeans, who introduced deadly diseases to which islanders had no immunity.
