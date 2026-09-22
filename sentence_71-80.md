@@ -44,7 +44,8 @@ The difficulty ... is that ...。
 - produced by these studies 修饰 evidence
 - fascinating as they are ... = although they are fascinating ...
 - 这里的 they 指 these studies
-- what we would today call norm-referenced 是一个 what 引导的名词性从句，整体作 are not 的表语整体作 are not 的表语，意思是“我们今天会称为‘norm-referenced’的那一类”
+- what we would today call norm-referenced 是一个 what 引导的名词性从句，整体作 are not 的表语，意思是“我们今天会称为‘norm-referenced’的那一类”
+- 在 what 从句内部，what 作 call 的宾语，norm-referenced 作宾语补足语；内层成分与整个从句在外层作表语是两个不同层次。
 
 ## Sentence 74
 
