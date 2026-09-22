@@ -13,56 +13,6 @@
 
 ## 拼写错误
 
-本节记录拼写、词形和漏词的纠正。引用部分保留仓库修订前的记录，不一定是原书或考试原文中的错误；“正确的拼写”仅对应列出的修改，不表示整句已逐字还原考试原文。句子文件已完成这些纠正，此处补充修改前后的对照及依据。
-
-### Sentence 02
-
-> The two world wars, which interputed the supply of raw material from Japan, also stifled the European silk industry.
-
-#### 正确的拼写
-
-The two world wars, which interrupted the supply of raw material from Japan, also stifled the European silk industry.
-
-> interputed -> interrupted
-
-依据：[Cambridge IELTS 11，Test 3，Reading Passage 1，History of silk，p.66](https://portal.alphaeducationabroad.com/resources/file.php?f=Cambridge+IELTS+11+AC.pdf)。
-
-### Sentence 03
-
-> Migration is a complex issue, and biologists define it differently, depending in part on what sorts of animals the study.
-
-#### 正确的拼写
-
-Migration is a complex issue, and biologists define it differently, depending in part on what sorts of animals they study.
-
-> the study -> they study
-
-依据：[Cambridge IELTS 11，Test 3，Reading Passage 2，Great Migrations，p.69](https://portal.alphaeducationabroad.com/resources/file.php?f=Cambridge+IELTS+11+AC.pdf)。
-
-### Sentence 05
-
-> What I’am afraid will happen is that books and magazines will all disappear, and there’ll be just rows and rows of computers.
-
-#### 正确的拼写
-
-What I'm afraid will happen is that books and magazines will all disappear, and there’ll be just rows and rows of computers.
-
-> I’am -> I'm
-
-依据：[Cambridge IELTS 12，Test 5，Listening Section 3，p.97](https://hasanboy.uz/wp-content/uploads/2018/06/Cambridge-Practice-Tests-for-IELTS-12.pdf)。
-
-### Sentence 28
-
-> Finally, perhaps the most graphic expressions of self-awareness in general can be seen in the displays of range which are most common from 18 months to 3 years of age.
-
-#### 正确的拼写
-
-Finally, perhaps the most graphic expressions of self-awareness in general can be seen in the displays of rage which are most common from 18 months to 3 years of age.
-
-> range -> rage
-
-依据：[Cambridge IELTS 9，Test 4，Reading Passage 2，Young children’s sense of identity，p.92](https://hasanboy.uz/wp-content/uploads/2018/06/Cambridge-Practice-Tests-for-IELTS-9.pdf)。
-
 ### Sentence 44
 
 > From earliest childhood we are so bound up with our system of numeration that it is a fear of imagination to consider the problems faced by early humans who had not yet developed this facility.
@@ -75,45 +25,9 @@ From earliest childhood we are so bound up with our system of numeration that it
 
 依据：[Cambridge IELTS 6，Test 2，Reading Passage 3，Numeration，p.48](https://karatalk.com/wp-content/uploads/Cambridge-IELTS-6.pdf)。
 
-### Sentence 47
-
-> For many enthusiasts, the ultimate flight fantasy is the jet pack, a small piece of equipment on your back which enables you to climb vertical into the air and fly forwards, backwards and turn.
-
-#### 正确的拼写
-
-For many enthusiasts, the ultimate flight fantasy is the jet pack, a small piece of equipment on your back which enables you to climb vertically into the air and fly forwards, backwards and turn.
-
-> vertical -> vertically
-
-依据：[Cambridge IELTS 9，General Training Test B，Reading Section 3，The Birdmen，p.126](https://hasanboy.uz/wp-content/uploads/2018/06/Cambridge-Practice-Tests-for-IELTS-9.pdf)。
-
-### Sentence 56
-
-> What we’ve decided to present today is information about just three species-because we felt these gave a good indication of the processes at work in rural and urban settings as whole.
-
-#### 正确的拼写
-
-What we’ve decided to present today is information about just three species-because we felt these gave a good indication of the processes at work in rural and urban settings as a whole.
-
-> as whole -> as a whole
-
-依据：[Cambridge IELTS 9，Test 4，Listening Section 4，Wildlife in City Gardens](https://paperpapa.com/wp-content/uploads/2022/03/IELTS-9-T4-Listening-Tapescript.pdf)。
-
-### Sentence 66
-
-> Not only was a monopoly of cinnamon becoming impossible, but the spice trade overall was diminishing in economic potential, and was eventually superseded by the raise of trade in coffee, tea, chocolate, and sugar.
-
-#### 正确的拼写
-
-Not only was a monopoly of cinnamon becoming impossible, but the spice trade overall was diminishing in economic potential, and was eventually superseded by the rise of trade in coffee, tea, chocolate, and sugar.
-
-> raise -> rise
-
-依据：[Cambridge IELTS 13，Test 2，Reading Passage 1，Bringing cinnamon to Europe，p.39](https://paperpapa.com/wp-content/uploads/2022/03/IELTS-13-T2-Reading.pdf)。
-
 ### Sentence 68
 
-> As researchers on aging noted recently, no treatment on the market today has been proved to slow human aging-the build-up of molecular and cellular damage that increase vulnerability to infirmity as we grew older.
+> As researchers on aging noted recently, no treatment on the market today has been proved to slow human aging-the build-up of molecular and cellular damage that increase vulnerability to infirmity as we grow older.
 
 #### 正确的拼写
 
@@ -121,49 +35,7 @@ As researchers on aging noted recently, no treatment on the market today has bee
 
 > increase -> increases
 
-> grew -> grow
-
 依据：[Cambridge IELTS 6，Test 3，Reading Passage 3，The Search for the Anti-aging Pill](https://karatalk.com/wp-content/uploads/Cambridge-IELTS-6.pdf)。
-
-### Sentence 94
-
-> Tourists flock to wells in far-flung corners of north-western India to gaze in wonder at these architectural marvels from hundreds of years ago, which server as a reminder of both the ingenuity and artistry of ancient civilisations and of the value of water to human existence.
-
-#### 正确的拼写
-
-Tourists flock to wells in far-flung corners of north-western India to gaze in wonder at these architectural marvels from hundreds of years ago, which serve as a reminder of both the ingenuity and artistry of ancient civilisations and of the value of water to human existence.
-
-> server -> serve
-
-依据：[Cambridge IELTS 10，Test 1，Reading Passage 1，Stepwells，p.18](https://www.hasanboy.uz/wp-content/uploads/2018/06/Cambridge-Practice-Tests-for-IELTS-10.pdf)。
-
-### Sentence 100
-
-> Eliminating the secrecy surrounding pay by openly communicating everyone’s remuneration, publicizing performance bonuses and allocating annual salary increases in a lump sum rather than spreading them out over an entire year are examples of actions that will make rewards move visible and potentially more motivating.
-
-#### 正确的拼写
-
-Eliminating the secrecy surrounding pay by openly communicating everyone’s remuneration, publicizing performance bonuses and allocating annual salary increases in a lump sum rather than spreading them out over an entire year are examples of actions that will make rewards more visible and potentially more motivating.
-
-> move -> more
-
-依据：[Cambridge IELTS 6，Test 3，Reading Passage 2，Motivating Employees under Adverse Conditions，p.69](https://paperpapa.com/wp-content/uploads/2022/03/IELTS-6-T3-Reading.pdf)。
-
-## 其他录入错误
-
-以下为货币符号录入错误，引用部分同样保留仓库修订前的记录。
-
-### Sentence 77
-
-> Most tickets may be used for travel by Sleeper, subject to availability, and a reservation in a two-berth cabin can be made for $25, except in the case of Solo and Special tickets, which include Sleeper reservation in the fare.
-
-#### 正确的货币符号
-
-Most tickets may be used for travel by Sleeper, subject to availability, and a reservation in a two-berth cabin can be made for £25, except in the case of Solo and Special tickets, which include Sleeper reservation in the fare.
-
-> $25 -> £25
-
-依据：[Cambridge IELTS 9，General Training Test A，Reading Section 1，Intercity Sleeper，p.107](https://hasanboy.uz/wp-content/uploads/2018/06/Cambridge-Practice-Tests-for-IELTS-9.pdf)。
 
 ## 中文翻译、语法结构讲解等错误
 
