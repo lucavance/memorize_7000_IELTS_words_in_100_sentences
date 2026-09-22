@@ -74,7 +74,7 @@ For many enthusiasts, the ultimate flight fantasy is the jet pack, a small piece
 
 The typical way of talking to a baby-high-pitched, exaggerated and repetitious-is a source of fascination for linguists who hope to understand how “baby talk” impacts on learning.
 
-> 对那些希望了解“婴儿牙牙学语声”是如何影响学习的语言学家来说，与婴儿高声调的、夸张的、重复的典型说话方式令语言学家感兴趣。
+> 人们对婴儿说话时，通常会提高声调、夸张表达并反复重复；这种说话方式令希望了解它如何影响学习的语言学家着迷。
 
 ### 语法笔记
 

@@ -344,6 +344,17 @@ It would seem that... 是无人称表达，句首 It 是无具体指代的虚位
 
 > 我们从幼年起就与自己的计数系统密不可分，因此，要设想尚未具备计数能力的早期人类所面临的问题，需要相当强的想象力。
 
+### Sentence 48
+
+> The typical way of talking to a baby-high-pitched, exaggerated and repetitious-is a source of fascination for linguists who hope to understand how “baby talk” impacts on learning.
+
+> #### 原中文翻译
+> 对那些希望了解“婴儿牙牙学语声”是如何影响学习的语言学家来说，与婴儿高声调的、夸张的、重复的典型说话方式令语言学家感兴趣。
+
+#### 正确中文翻译
+
+> 人们对婴儿说话时，通常会提高声调、夸张表达并反复重复；这种说话方式令希望了解它如何影响学习的语言学家着迷。
+
 ### Sentence 51
 
 > They think the population of Rapa Nui grew rapidly and then remained more or less stable until the arrival of the Europeans, who introduced deadly diseases to which islanders had no immunity.
