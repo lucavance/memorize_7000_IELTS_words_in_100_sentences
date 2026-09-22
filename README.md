@@ -164,6 +164,17 @@ As researchers on aging noted recently, no treatment on the market today has bee
 
 本句的主干是 they've been useful in providing information and raising awareness。even though 引导让步状语从句，从句的主干是 these maps are crude。that 引导同位语从句 noise matters ... political matter，补充说明 awareness，从句中的 it 指代 noise。
 
+### Sentence 56
+
+> What we’ve decided to present today is information about just three species-because we felt these gave a good indication of the processes at work in rural and urban settings as a whole.
+
+> #### 原中文翻译
+> 今天我们决定介绍有关三个物种的信息，因为我们觉得这些信息整体上很好地象征了农村和城市环境中的工作过程。
+
+#### 正确中文翻译
+
+> 今天我们决定只介绍三个物种的情况，因为我们认为，这三个物种能够很好地反映城乡环境中总体上正在起作用的过程。
+
 ### Sentence 61
 
 > After this, many researchers switched to autoganzfeld tests-an automated variant of the technique which used computers to perform many of the key tasks such as the random selection of images.

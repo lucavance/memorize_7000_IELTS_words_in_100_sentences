@@ -54,7 +54,7 @@ In its most general sense, prescriptivism is the view that one variety of langua
 
 What we’ve decided to present today is information about just three species-because we felt these gave a good indication of the processes at work in rural and urban settings as a whole.
 
-> 今天我们决定介绍有关三个物种的信息，因为我们觉得这些信息整体上很好地象征了农村和城市环境中的工作过程。
+> 今天我们决定只介绍三个物种的情况，因为我们认为，这三个物种能够很好地反映城乡环境中总体上正在起作用的过程。
 
 ### 语法笔记
 
