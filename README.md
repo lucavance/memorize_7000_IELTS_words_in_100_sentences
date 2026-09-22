@@ -625,6 +625,17 @@ It would seem that... 是无人称表达，句首 It 是无具体指代的虚位
 
 > 一项历时 14 年、结果将于本月晚些时候公布的研究表明，受到与老年相关疾病困扰的人越来越少；即使这些疾病确实发作，也是在比以往晚得多的年龄。
 
+### Sentence 58
+
+> Memory consolidation, the next step in forming an episodic memory, is the process by which memories of encoded information are strengthened, stabilized and stored to facilitate later retrieval.
+
+> #### 原语法笔记
+> 本句的主干是 Memory consolidation is the process。the next step in forming an episodic memory 作插入语，解释说明主语 Memory consolidation，which 引导的定语从句修饰 the process，不定式短语 to facilitate later retrieval 在从句中作目的状语。
+
+#### 正确语法笔记
+
+本句的主干是 Memory consolidation is the process。the next step in forming an episodic memory 是插入的同位语，解释说明主语 Memory consolidation，by which 引导的定语从句修饰 the process，不定式短语 to facilitate later retrieval 在从句中作目的状语。
+
 ### Sentence 61
 
 > After this, many researchers switched to autoganzfeld tests-an automated variant of the technique which used computers to perform many of the key tasks such as the random selection of images.

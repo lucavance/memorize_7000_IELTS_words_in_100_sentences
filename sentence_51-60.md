@@ -78,7 +78,7 @@ Memory consolidation, the next step in forming an episodic memory, is the proces
 
 ### 语法笔记
 
-本句的主干是 Memory consolidation is the process。the next step in forming an episodic memory 作插入语，解释说明主语 Memory consolidation，which 引导的定语从句修饰 the process，不定式短语 to facilitate later retrieval 在从句中作目的状语。
+本句的主干是 Memory consolidation is the process。the next step in forming an episodic memory 是插入的同位语，解释说明主语 Memory consolidation，by which 引导的定语从句修饰 the process，不定式短语 to facilitate later retrieval 在从句中作目的状语。
 
 ## Sentence 59
 
