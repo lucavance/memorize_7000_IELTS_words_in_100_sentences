@@ -4,7 +4,7 @@
 
 They think the population of Rapa Nui grew rapidly and then remained more or less stable until the arrival of the Europeans, who introduced deadly diseases to which islanders had no immunity.
 
-> 他们认为，拉帕努伊岛的人口曾迅速增长，随后在欧洲人抵达前一直保持相对稳定。然而，欧洲人的到来带来了致命的疾病，而岛民对这些疾病毫无免疫力。
+> 他们认为，拉帕努伊岛的人口曾迅速增长，随后在欧洲人抵达前一直保持相对稳定。这些欧洲人带来了致命的疾病，而岛民对这些疾病毫无免疫力。
 
 ### 语法笔记
 
