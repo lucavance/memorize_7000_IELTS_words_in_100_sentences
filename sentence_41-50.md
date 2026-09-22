@@ -94,7 +94,7 @@ Psychologists have long held that a person’s character cannot undergo a transf
 
 It was only when the hull was hanging freely from the lifting frame, clear of the seabed and the suction effect of the surrounding mud, that the salvage operation progressed to the second stage.
 
-> 只有当船体顺利地悬挂在吊架上，离开海底和远离周围泥浆的吸力作用时，打捞工作才进入第二阶段。
+> 只有当船体完全脱离海底及周围泥浆的吸附、悬空挂在吊架上时，打捞工作才进入第二阶段。
 
 ### 语法笔记
 

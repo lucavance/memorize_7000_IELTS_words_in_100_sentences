@@ -355,6 +355,17 @@ It would seem that... 是无人称表达，句首 It 是无具体指代的虚位
 
 > 人们对婴儿说话时，通常会提高声调、夸张表达并反复重复；这种说话方式令希望了解它如何影响学习的语言学家着迷。
 
+### Sentence 50
+
+> It was only when the hull was hanging freely from the lifting frame, clear of the seabed and the suction effect of the surrounding mud, that the salvage operation progressed to the second stage.
+
+> #### 原中文翻译
+> 只有当船体顺利地悬挂在吊架上，离开海底和远离周围泥浆的吸力作用时，打捞工作才进入第二阶段。
+
+#### 正确中文翻译
+
+> 只有当船体完全脱离海底及周围泥浆的吸附、悬空挂在吊架上时，打捞工作才进入第二阶段。
+
 ### Sentence 51
 
 > They think the population of Rapa Nui grew rapidly and then remained more or less stable until the arrival of the Europeans, who introduced deadly diseases to which islanders had no immunity.
