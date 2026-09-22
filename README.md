@@ -472,6 +472,24 @@ It would seem that... 是无人称表达，句首 It 是无具体指代的虚位
 
 本句的主干是 The reasoning is that...，that 引导表语从句。表语从句内，if you replenish... 是条件状语从句，主干是 more light will be reflected back into space。so reducing the warming of oceans and atmosphere 是表示结果的现在分词短语，说明更多光线反射回太空所带来的结果；它不属于狭义的 if 条件从句内部。
 
+### Sentence 43
+
+> A final theory is related to group behaviour , and suggests that sea mammals cannot distinguish between sick and healthy leaders and will follow sick leaders, even to an inevitable death.
+
+> #### 原中文翻译
+> 最后的这一理论与集体行为有关，认为海洋哺乳动物不能区分病态和健康的领导者，它们会跟随生病的领导者，甚至最终不可避免地死亡。
+
+> #### 原语法笔记
+> 本句的主干是 A final theory is related to group behaviour, and suggests that。其中 that 引导宾语从句作 suggest 的宾语。句末的介词短语 even to an inevitable death 作程度状语。
+
+#### 正确中文翻译
+
+> 最后一种理论与群体行为有关，认为海洋哺乳动物无法分辨患病和健康的首领，会追随患病的首领，甚至走向不可避免的死亡。
+
+#### 正确语法笔记
+
+本句的主干是 A final theory is related to group behaviour, and suggests that。其中 that 引导宾语从句作 suggest 的宾语。句末的介词短语 even to an inevitable death 说明追随患病首领可能达到的极端结果。
+
 ### Sentence 44
 
 > From earliest childhood we are so bound up with our system of numeration that it is a feat of imagination to consider the problems faced by early humans who had not yet developed this facility.

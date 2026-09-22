@@ -24,11 +24,11 @@ The reasoning is that if you replenish the ice sheets and frozen waters of the h
 
 A final theory is related to group behaviour , and suggests that sea mammals cannot distinguish between sick and healthy leaders and will follow sick leaders, even to an inevitable death.
 
-> 最后的这一理论与集体行为有关，认为海洋哺乳动物不能区分病态和健康的领导者，它们会跟随生病的领导者，甚至最终不可避免地死亡。
+> 最后一种理论与群体行为有关，认为海洋哺乳动物无法分辨患病和健康的首领，会追随患病的首领，甚至走向不可避免的死亡。
 
 ### 语法笔记
 
-本句的主干是 A final theory is related to group behaviour, and suggests that。其中 that 引导宾语从句作 suggest 的宾语。句末的介词短语 even to an inevitable death 作程度状语。
+本句的主干是 A final theory is related to group behaviour, and suggests that。其中 that 引导宾语从句作 suggest 的宾语。句末的介词短语 even to an inevitable death 说明追随患病首领可能达到的极端结果。
 
 ## Sentence 44
 
