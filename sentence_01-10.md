@@ -98,4 +98,4 @@ Many theorists believe the ideal boss should lead from behind, taking pride in c
 
 ### 语法笔记
 
-本句的主干是 Many theorists believe...，believe 后面跟了一个省略 that 的宾语从句。句末的“逗号+现在分词短语”形式作伴随状语，表示和主句的动作 lead from behind 同时进行。where 引导地点状语从句，修饰 giving。
+本句的主干是 Many theorists believe...，believe 后接省略 that 的宾语从句，宾语从句的主干是 the ideal boss should lead from behind。taking pride in collective accomplishment 和 giving credit where it is due 是并列的现在分词短语，逻辑主语均为 the ideal boss，补充说明其领导方式；lead 位于宾语从句中，并非主句谓语。where it is due 修饰 giving credit，传统上可称地点状语从句，但这里表示抽象的“在应该给予肯定之处／向应获肯定的人”；it 指 credit。
