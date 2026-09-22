@@ -56,6 +56,17 @@ As researchers on aging noted recently, no treatment on the market today has bee
 
 本句的主干是 Lee Hall’s analysis of figures was done in a lot of detail。现在分词短语 comparing the times of the fires and the proportion of seed that germinated 作 figures 的后置定语，说明数据所比较的内容；定语从句 that germinated 修饰 seed。the times of the fires 表示火灾发生的时间；句末 very impressive 是对这项分析的补充评价。
 
+### Sentence 15
+
+> While the Inuit may not actually starve if hunting and trapping are curtailed by climate change, there has certainly been an impact on people’s health.
+
+> #### 原中文翻译
+> 如果狩猎和诱捕受到气候变化的限制，因纽特人可能实际上也不会挨饿，但这肯定会对他们的健康产生影响。
+
+#### 正确中文翻译
+
+> 尽管因纽特人在狩猎和诱捕因气候变化而受到限制时未必真的会挨饿，但他们的健康无疑已经受到了影响。
+
 ### Sentence 19
 
 > It was once assumed that improvements in telecommunications would lead to more dispersal in the population as people were no longer forced into cities.

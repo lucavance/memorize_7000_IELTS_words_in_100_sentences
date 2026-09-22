@@ -44,7 +44,7 @@ Lee Hall’s analysis of figures comparing the times of the fires and the propor
 
 While the Inuit may not actually starve if hunting and trapping are curtailed by climate change, there has certainly been an impact on people’s health.
 
-> 如果狩猎和诱捕受到气候变化的限制，因纽特人可能实际上也不会挨饿，但这肯定会对他们的健康产生影响。
+> 尽管因纽特人在狩猎和诱捕因气候变化而受到限制时未必真的会挨饿，但他们的健康无疑已经受到了影响。
 
 ### 语法笔记
 
