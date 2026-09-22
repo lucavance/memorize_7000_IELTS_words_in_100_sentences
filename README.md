@@ -292,11 +292,11 @@ It would seem that... 是无人称表达，句首 It 是无具体指代的虚位
 
 #### 正确中文翻译
 
-> 民意调查显示，许多人坚信环境标准正在日益恶化；然而，这种认知与现实之间的脱节，似乎是由四个因素造成的。
+> 民意调查显示，许多人坚信环境标准正在下降；然而，这种认知与现实之间的脱节，似乎是由四个因素造成的。
 
 #### 正确语法笔记
 
-本句主干是 Opinion polls suggest + that 宾语从句。第二个 that 引导同位语从句 environmental standards ... and reality，解释前面的 belief。
+第一个分句的主干是 Opinion polls suggest + that 宾语从句。第二个 that 引导同位语从句 that environmental standards are declining，解释前面的 belief；它到 declining 为止。
 这是一个并列复合句 (Compound-Complex Sentence)。并列关系由 and 连接，分句 1 (Clause 1): `Opinion polls suggest that many people nurture the belief that environmental standards are declining`，分句 2 (Clause 2): `four factors seem to cause this disjunction between perception and reality`。
 
 ```text
