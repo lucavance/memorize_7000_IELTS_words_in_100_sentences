@@ -85,6 +85,24 @@ As researchers on aging noted recently, no treatment on the market today has bee
 
 It would seem that... 是无人称表达，句首 It 是无具体指代的虚位主语；that 从句说明 seem 所表达的判断内容，不能把 It 解释为某个具体情况的代词。后半部分采用 the + 比较级..., the + 比较级... 结构，表示“越……，越……”。the harder it is to decipher the meaning 中，it 是形式主语，to decipher the meaning 是后置的不定式主语；the more rewarding is the moment of recognition 中，the moment of recognition 是后置的主语，通常语序为 the more rewarding the moment of recognition is。and 可按连接两个主层分句理解；也可以把后半部分纳入 seem 所表达的判断范围，不宜只凭孤句认定唯一的并列层级。
 
+### Sentence 17
+
+> Such material, even where it appears comparatively trivial, can have a serious effect on the company, supplier or customer if it falls into the wrong hands.
+
+> #### 原中文翻译
+> 如果这类材料落到坏人手中，即使在看来相对微不足道的地方，也会对公司、供应商或客户产生严重影响。
+
+> #### 原语法笔记
+> 本句的主干是 Such material can have a serious effect on the company, supplier or customer。even where it appears comparatively trivial 作地点状语从句，if 在此处引导条件状语从句。
+
+#### 正确中文翻译
+
+> 这类资料即使看起来相对无关紧要，一旦落入不当的人手中，也可能对公司、供应商或客户造成严重影响。
+
+#### 正确语法笔记
+
+本句的主干是 Such material can have a serious effect on the company, supplier or customer。even where it appears comparatively trivial 是插入的状语从句，where 在这里表示抽象的情形，结合 even 表达“即使在……情况下”的让步意义；it 指 Such material。if it falls into the wrong hands 是条件状语从句。
+
 ### Sentence 19
 
 > It was once assumed that improvements in telecommunications would lead to more dispersal in the population as people were no longer forced into cities.

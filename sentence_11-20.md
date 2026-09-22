@@ -64,11 +64,11 @@ It would seem that... 是无人称表达，句首 It 是无具体指代的虚位
 
 Such material, even where it appears comparatively trivial, can have a serious effect on the company, supplier or customer if it falls into the wrong hands.
 
-> 如果这类材料落到坏人手中，即使在看来相对微不足道的地方，也会对公司、供应商或客户产生严重影响。
+> 这类资料即使看起来相对无关紧要，一旦落入不当的人手中，也可能对公司、供应商或客户造成严重影响。
 
 ### 语法笔记
 
-本句的主干是 Such material can have a serious effect on the company, supplier or customer。even where it appears comparatively trivial 作地点状语从句，if 在此处引导条件状语从句。
+本句的主干是 Such material can have a serious effect on the company, supplier or customer。even where it appears comparatively trivial 是插入的状语从句，where 在这里表示抽象的情形，结合 even 表达“即使在……情况下”的让步意义；it 指 Such material。if it falls into the wrong hands 是条件状语从句。
 
 ## Sentence 18
 
