@@ -121,6 +121,17 @@ It would seem that... 是无人称表达，句首 It 是无具体指代的虚位
 
 本句的主干是 It was once assumed that...。It 充当形式主语，that 引导主语从句， improvements...into cities 是实际主语，其中又包含 as 引导的原因状语从句。
 
+### Sentence 21
+
+> It’s true there are new regulations for mercury emissions from power plants, but these will need billions of dollars to implement and increase costs for everyone.
+
+> #### 原中文翻译
+> 的确，对发电厂的汞排放有了新的规定，但贯彻这些规定需要数十亿美元，而且还增加了每个人的成本。
+
+#### 正确中文翻译
+
+> 的确，发电厂的汞排放已有新的规定，但实施这些规定将需要数十亿美元，还会增加所有人的成本。
+
 ### Sentence 31
 
 > He wanted to give people a feeling of suspense as they see the building first from a distance, and then close-up, and the shape of the building as a whole was that of a box.

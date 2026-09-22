@@ -4,7 +4,7 @@
 
 It’s true there are new regulations for mercury emissions from power plants, but these will need billions of dollars to implement and increase costs for everyone.
 
-> 的确，对发电厂的汞排放有了新的规定，但贯彻这些规定需要数十亿美元，而且还增加了每个人的成本。
+> 的确，发电厂的汞排放已有新的规定，但实施这些规定将需要数十亿美元，还会增加所有人的成本。
 
 ### 语法笔记
 
