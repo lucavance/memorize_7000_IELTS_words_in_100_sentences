@@ -687,6 +687,17 @@ The difficulty ... is that ...。
 - and 连接的是破折号后 to record... 和 not to attempt... 这两个作解释说明的不定式短语，不应把它们与破折号前的 to describe、not to prescribe 混成一组并列结构。
 - of evaluating language variation or halting language change 修饰 tasks，说明任务的具体内容；evaluating language variation 和 halting language change 是由 or 连接的两个动名词短语，共同作介词 of 的宾语。
 
+### Sentence 92
+
+> Another strange feature of the Japanese pagoda is that, because the building tapers, with each successive floor plan being smaller than the one below, none of the vertical pillars that carry the weight of the building is connected to its corresponding pillar above.
+
+> #### 原中文翻译
+> 日本宝塔的另一个奇怪的特点是，由于这种建筑物逐渐变细，每一层楼的平面图都比下面的要小，所以支撑着建筑物重量的垂直柱没有一根与上面相应的柱子相连。
+
+#### 正确中文翻译
+
+> 日本宝塔的另一个奇特之处是：由于塔身逐层收小，每一层的平面轮廓都比下一层小，因此，支撑塔身重量的竖柱没有一根与上一层相对应的柱子相连。
+
 ### Sentence 100
 
 > Eliminating the secrecy surrounding pay by openly communicating everyone’s remuneration, publicizing performance bonuses and allocating annual salary increases in a lump sum rather than spreading them out over an entire year are examples of actions that will make rewards more visible and potentially more motivating.

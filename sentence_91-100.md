@@ -14,7 +14,7 @@ Some recent interdisciplinary research has come out with results that at first s
 
 Another strange feature of the Japanese pagoda is that, because the building tapers, with each successive floor plan being smaller than the one below, none of the vertical pillars that carry the weight of the building is connected to its corresponding pillar above.
 
-> 日本宝塔的另一个奇怪的特点是，由于这种建筑物逐渐变细，每一层楼的平面图都比下面的要小，所以支撑着建筑物重量的垂直柱没有一根与上面相应的柱子相连。
+> 日本宝塔的另一个奇特之处是：由于塔身逐层收小，每一层的平面轮廓都比下一层小，因此，支撑塔身重量的竖柱没有一根与上一层相对应的柱子相连。
 
 ### 语法笔记
 
