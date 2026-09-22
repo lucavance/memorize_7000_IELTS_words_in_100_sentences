@@ -716,6 +716,24 @@ The difficulty ... is that ...。
 
 本句的主干是 The antiseptic properties of tannin, and of hops in beer allowed urban communities to flourish。the active ingredient in tea 是 tannin 的同位语；of tannin 和 of hops in beer 是并列的介词短语，共同修饰 properties。破折号之间 plus the fact... 是补充成分，that 引导同位语从句说明 the fact，其中 both 指茶和啤酒，不是单宁和啤酒花。without succumbing to... 说明城市居民繁荣发展时免于疾病侵袭的情况。
 
+### Sentence 96
+
+> As recently as 1993, engineers made a major breakthrough by discovering so called turbo codes-which come very close to Shannon’s ultimate limit for the maximum rate that data can be transmitted reliably, and now play a key role in the mobile videophone revolution.
+
+> #### 原中文翻译
+> 就在最近的1993年，工程师们取得了一项重大突破，发现了所谓的Turbo码，这与Shannon提出的数据可以安全传送的最大速度极限非常接近。现在，Turbo码在移动可视电话变革中起着关键作用。
+
+> #### 原语法笔记
+> 本句的主干是 engineers made a major breakthrough。by 引导方式状语；which 引导定语从句，修饰先行词 turbo codes，which 在这个从句中作主语；动词 come 和 play 在从句中构成并列谓语结构；that 引导同位语从句，说明 the maximum rate。
+
+#### 正确中文翻译
+
+> 就在 1993 年，工程师们发现了所谓的 Turbo 码，取得了一项重大突破。这种编码非常接近香农所提出的数据可靠传输最高速率的理论极限，并在当时的移动可视电话变革中发挥着关键作用。
+
+#### 正确语法笔记
+
+本句的主干是 engineers made a major breakthrough。by discovering so called turbo codes 作方式状语；which 引导非限制性定语从句修饰 turbo codes，come 和 play 是从句中的并列谓语。the maximum rate 后的 that data can be transmitted reliably 是定语从句，相当于 at which data can be transmitted reliably，修饰 rate，而不是说明其内容的同位语从句。reliably 表示可靠地，不是安全地。As recently as 1993 和 now 以原文写作时点为参照，不能理解成相对于读者今天的时间。
+
 ### Sentence 100
 
 > Eliminating the secrecy surrounding pay by openly communicating everyone’s remuneration, publicizing performance bonuses and allocating annual salary increases in a lump sum rather than spreading them out over an entire year are examples of actions that will make rewards more visible and potentially more motivating.
