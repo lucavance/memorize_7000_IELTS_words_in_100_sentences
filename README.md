@@ -486,6 +486,17 @@ It would seem that... 是无人称表达，句首 It 是无具体指代的虚位
 
 > 正如研究衰老的学者最近所指出的，目前市面上还没有任何疗法被证实能够减缓人体衰老——也就是分子和细胞层面损伤的累积，这种累积使我们随着年龄增长而更容易体弱多病。
 
+### Sentence 72
+
+> It’s true that the actual construction of the house was harmful to the environment, mainly because they had to use massive amounts of concrete-one of the biggest sources of carbon dioxide in manufacturing.
+
+> #### 原中文翻译
+> 确实，实际的房屋建造对环境有害，主要是因为它们不得不使用大量的混凝土——混凝土是制造业最大的二氧化碳来源之一。
+
+#### 正确中文翻译
+
+> 的确，这座房屋的实际建造过程对环境有害，主要是因为建造者不得不使用大量混凝土，而混凝土的生产是制造业二氧化碳排放的最大来源之一。
+
 ### Sentence 73
 
 > The difficulty with the evidence produced by these studies, fascinating as they are in collecting together anecdotes and apparent similarities and exceptions, is that they are not what we would today call norm-referenced.

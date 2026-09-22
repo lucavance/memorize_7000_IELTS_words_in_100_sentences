@@ -14,7 +14,7 @@ It is finished manufactured products that dominate the flow of trade, and, thank
 
 It’s true that the actual construction of the house was harmful to the environment, mainly because they had to use massive amounts of concrete-one of the biggest sources of carbon dioxide in manufacturing.
 
-> 确实，实际的房屋建造对环境有害，主要是因为它们不得不使用大量的混凝土——混凝土是制造业最大的二氧化碳来源之一。
+> 的确，这座房屋的实际建造过程对环境有害，主要是因为建造者不得不使用大量混凝土，而混凝土的生产是制造业二氧化碳排放的最大来源之一。
 
 ### 语法笔记
 
