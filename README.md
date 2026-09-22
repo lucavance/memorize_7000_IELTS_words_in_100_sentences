@@ -464,6 +464,17 @@ It would seem that... 是无人称表达，句首 It 是无具体指代的虚位
 
 本句的主干是 many researchers switched to autoganzfeld tests。破折号后的内容是对 autoganzfeld tests 的解释说明，which 引导一个定语从句，修饰 an automated variant of the technique。the technique 指 ganzfeld tests (来自该句前文)。
 
+### Sentence 64
+
+> High achievers have been found to use self-regulatory learning strategies more often and more effectively than lower achievers, and are better able to transfer these strategies to deal with unfamiliar tasks.
+
+> #### 原中文翻译
+> 我们发现成绩优异的学生比成绩差的学生更经常、更有效地使用自我调节的学习策略，并且能够更好地变换这些策略来处理不熟悉的任务。
+
+#### 正确中文翻译
+
+> 研究发现，成绩优异的学生比成绩较差的学生更经常、更有效地使用自我调节学习策略，并且更能将这些策略迁移运用到不熟悉的任务中。
+
 ### Sentence 68
 
 > As researchers on aging noted recently, no treatment on the market today has been proved to slow human aging-the build-up of molecular and cellular damage that increases vulnerability to infirmity as we grow older.

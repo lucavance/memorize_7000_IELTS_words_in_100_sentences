@@ -34,7 +34,7 @@ Although population, industrial output and economic productivity have continued 
 
 High achievers have been found to use self-regulatory learning strategies more often and more effectively than lower achievers, and are better able to transfer these strategies to deal with unfamiliar tasks.
 
-> 我们发现成绩优异的学生比成绩差的学生更经常、更有效地使用自我调节的学习策略，并且能够更好地变换这些策略来处理不熟悉的任务。
+> 研究发现，成绩优异的学生比成绩较差的学生更经常、更有效地使用自我调节学习策略，并且更能将这些策略迁移运用到不熟悉的任务中。
 
 ### 语法笔记
 
