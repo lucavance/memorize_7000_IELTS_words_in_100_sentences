@@ -665,6 +665,17 @@ It would seem that... 是无人称表达，句首 It 是无具体指代的虚位
 
 > 研究发现，成绩优异的学生比成绩较差的学生更经常、更有效地使用自我调节学习策略，并且更能将这些策略迁移运用到不熟悉的任务中。
 
+### Sentence 66
+
+> Not only was a monopoly of cinnamon becoming impossible, but the spice trade overall was diminishing in economic potential, and was eventually superseded by the rise of trade in coffee, tea, chocolate, and sugar.
+
+> #### 原语法笔记
+> 本句是由 not only...but also 连接的一个并列句。因为 not only 位于句首，所以第一个分句进行了倒装，其主干是 a monopoly of cinnamon was becoming impossible。第二分句的主干是 the spice trade was diminishing and was eventually superseded，谓语动词 was diminishing 和 was superseded 构成并列谓语结构。
+
+#### 正确语法笔记
+
+本句是由 not only...but... 连接的一个并列句。这一结构也可使用 not only...but also...，但本句未出现 also。因为 not only 位于句首，所以第一个分句进行了倒装，其主干是 a monopoly of cinnamon was becoming impossible。第二分句的主干是 the spice trade was diminishing and was eventually superseded，谓语动词 was diminishing 和 was superseded 构成并列谓语结构。
+
 ### Sentence 68
 
 > As researchers on aging noted recently, no treatment on the market today has been proved to slow human aging-the build-up of molecular and cellular damage that increases vulnerability to infirmity as we grow older.

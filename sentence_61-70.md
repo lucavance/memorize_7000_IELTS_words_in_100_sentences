@@ -58,7 +58,7 @@ Not only was a monopoly of cinnamon becoming impossible, but the spice trade ove
 
 ### 语法笔记
 
-本句是由 not only...but also 连接的一个并列句。因为 not only 位于句首，所以第一个分句进行了倒装，其主干是 a monopoly of cinnamon was becoming impossible。第二分句的主干是 the spice trade was diminishing and was eventually superseded，谓语动词 was diminishing 和 was superseded 构成并列谓语结构。
+本句是由 not only...but... 连接的一个并列句。这一结构也可使用 not only...but also...，但本句未出现 also。因为 not only 位于句首，所以第一个分句进行了倒装，其主干是 a monopoly of cinnamon was becoming impossible。第二分句的主干是 the spice trade was diminishing and was eventually superseded，谓语动词 was diminishing 和 was superseded 构成并列谓语结构。
 
 ## Sentence 67
 
