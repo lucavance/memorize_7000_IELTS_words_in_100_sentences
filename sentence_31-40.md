@@ -105,11 +105,11 @@ Natural soil fertility is dropping in many areas because of continuous industria
 
 Within the span of several centuries, the Lapita stretched the boundaries of their world from the jungle-clad volcanoes of Papua New Guinea to the loneliest coral outliers of Tonga.
 
-> 在几个世纪的时间跨度里，拉皮塔人把他们的世界从巴布亚新几内亚丛林覆盖的火山延伸到汤加最孤独的珊瑚群周围。
+> 在短短几个世纪里，拉皮塔人把自己世界的疆界从巴布亚新几内亚丛林覆盖的火山地区扩展到了汤加最偏远孤立的珊瑚岛。
 
 ### 语法笔记
 
-本句的主干是 the Lapita stretched the boundaries。Within the span of several centuries 作时间状语，句中 from... to...构成并列结构，作地点状语。
+本句的主干是 the Lapita stretched the boundaries of their world。Within the span of several centuries 作时间状语；from the jungle-clad volcanoes of Papua New Guinea to the loneliest coral outliers of Tonga 表示扩展所跨越的地域范围，from...to... 是表示起点和终点的搭配。
 
 ## Sentence 40
 
