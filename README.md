@@ -27,6 +27,17 @@ As researchers on aging noted recently, no treatment on the market today has bee
 
 ## 中文翻译、语法结构讲解等错误
 
+### Sentence 06
+
+> The psychological laboratory has a strong claim to legitimacy and evokes trust and confidence in those who perform there.
+
+> #### 原中文翻译
+> 这个心理学实验室坚决声明拥有合法性并唤起了在那里参与实验的人们的信任和信心。
+
+#### 正确中文翻译
+
+> 心理学实验室具有充分的正当性依据，并能使在那里参与实验的人产生信任和信心。
+
 ### Sentence 19
 
 > It was once assumed that improvements in telecommunications would lead to more dispersal in the population as people were no longer forced into cities.

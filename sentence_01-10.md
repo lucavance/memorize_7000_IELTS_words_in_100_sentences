@@ -54,7 +54,7 @@ What I'm afraid will happen is that books and magazines will all disappear, and 
 
 The psychological laboratory has a strong claim to legitimacy and evokes trust and confidence in those who perform there.
 
-> 这个心理学实验室坚决声明拥有合法性并唤起了在那里参与实验的人们的信任和信心。
+> 心理学实验室具有充分的正当性依据，并能使在那里参与实验的人产生信任和信心。
 
 ### 语法笔记
 
