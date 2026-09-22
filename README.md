@@ -38,6 +38,24 @@ As researchers on aging noted recently, no treatment on the market today has bee
 
 > 心理学实验室具有充分的正当性依据，并能使在那里参与实验的人产生信任和信心。
 
+### Sentence 14
+
+> Lee Hall’s analysis of figures comparing the times of the fires and the proportion of seed that germinated was done in a lot of detail-very impressive.
+
+> #### 原中文翻译
+> 李·霍尔对火灾发生的次数和种子发芽的比例进行了对比和数字分析，他的分析非常详尽——令人印象深刻。
+
+> #### 原语法笔记
+> 本句的主干是 Lee Hall's analysis of figures was done in a lot of detail。现在分词短语 comparing the times of the fires and the proportion of seed that germinated 作 analysis of figures 的后置定语，其中定语从句 that germinated 修饰 seed；破折号后面的 very impressive 起补充说明作用。
+
+#### 正确中文翻译
+
+> 李·霍尔对比较火灾发生时间与种子发芽比例的数据进行了十分详尽的分析，令人印象深刻。
+
+#### 正确语法笔记
+
+本句的主干是 Lee Hall’s analysis of figures was done in a lot of detail。现在分词短语 comparing the times of the fires and the proportion of seed that germinated 作 figures 的后置定语，说明数据所比较的内容；定语从句 that germinated 修饰 seed。the times of the fires 表示火灾发生的时间；句末 very impressive 是对这项分析的补充评价。
+
 ### Sentence 19
 
 > It was once assumed that improvements in telecommunications would lead to more dispersal in the population as people were no longer forced into cities.
