@@ -83,7 +83,7 @@ Many CEOs combine two opposing characteristics: confidence-that is, the belief t
 
 A radical solution, which may work for some very large companies whose businesses are extensive and complex, is the professional board, whose members would work up to three or four days a week, supported by their own dedicated staff and advisers.
 
-> 一个激进的解决方案就是成立专业董事会，这可能适用于一些业务广泛而复杂的大公司，其员工每周工作三到四天，有它们自己敬业的员工和顾问的支持。
+> 一种激进的解决方案是设立专业董事会。这种方案可能适用于某些业务广泛且复杂的大型公司；董事会成员每周将投入多达三至四天的工作时间，并得到专门为他们配备的员工和顾问的支持。
 
 ### 语法笔记
 

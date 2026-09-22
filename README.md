@@ -651,6 +651,17 @@ The difficulty ... is that ...。
 
 本句由 while 连接两个分句，前一分句的主干是 The taxonomist sometimes overlooks whole species，后一分句的主干是 the ecologist often collects only a limited number of specimens of each species。句末 thus reducing their value for taxonomic investigations 是结果状语，直接承接后一个分句中标本采集数量有限这一情况；their 指所采集的标本，降低的是标本用于分类学研究的价值。
 
+### Sentence 89
+
+> A radical solution, which may work for some very large companies whose businesses are extensive and complex, is the professional board, whose members would work up to three or four days a week, supported by their own dedicated staff and advisers.
+
+> #### 原中文翻译
+> 一个激进的解决方案就是成立专业董事会，这可能适用于一些业务广泛而复杂的大公司，其员工每周工作三到四天，有它们自己敬业的员工和顾问的支持。
+
+#### 正确中文翻译
+
+> 一种激进的解决方案是设立专业董事会。这种方案可能适用于某些业务广泛且复杂的大型公司；董事会成员每周将投入多达三至四天的工作时间，并得到专门为他们配备的员工和顾问的支持。
+
 ### Sentence 90
 
 > This approach is summarized in the statement that it is the task of the grammarian to describe, not to prescribe-to record the facts of linguistic diversity, and not to attempt the impossible tasks of evaluating language variation or halting language change.
