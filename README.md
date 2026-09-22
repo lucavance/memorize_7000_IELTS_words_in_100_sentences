@@ -291,6 +291,17 @@ It would seem that... 是无人称表达，句首 It 是无具体指代的虚位
 
 本句的主干是 the employee will be asked not to wear the inappropriate item to work again。if clothing fails to meet these standards 是条件状语从句。插入的 as determined by the employee’s supervisor 是省略结构，说明着装是否不符合标准由员工的上司判定；不能据此把 these standards 解释成由上司制定的标准。not to wear... 是 ask sb not to do sth 的被动结构中的不定式成分。
 
+### Sentence 26
+
+> The participants weren’t told beforehand whether the tunes were composed by humans or computers, but were asked to guess, and then rate how much they liked each one.
+
+> #### 原语法笔记
+> 本句的主干是 The participants weren't told beforehand, but were asked to guess, and then rate，其中 but 后面因为和前一句的主语相同，所以 but 后面的主语省略。宾语从句 whether the tunes were composed by humans or computers 和 how much they liked each one 分别作 told 和 rate 的宾语。
+
+#### 正确语法笔记
+
+本句以 The participants 为共同主语，weren’t told beforehand 和 were asked... 由 but 连接。whether the tunes were composed by humans or computers 是 told 所带的宾语从句。were asked 后的 to guess 与 (to) rate how much they liked each one 由 and then 连接，第二个不定式省略 to；rate 与 guess 属于同一层级，不是独立的主句谓语。how much they liked each one 作 rate 的宾语。
+
 ### Sentence 31
 
 > He wanted to give people a feeling of suspense as they see the building first from a distance, and then close-up, and the shape of the building as a whole was that of a box.

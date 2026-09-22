@@ -58,7 +58,7 @@ The participants weren’t told beforehand whether the tunes were composed by hu
 
 ### 语法笔记
 
-本句的主干是 The participants weren't told beforehand, but were asked to guess, and then rate，其中 but 后面因为和前一句的主语相同，所以 but 后面的主语省略。宾语从句 whether the tunes were composed by humans or computers 和 how much they liked each one 分别作 told 和 rate 的宾语。
+本句以 The participants 为共同主语，weren’t told beforehand 和 were asked... 由 but 连接。whether the tunes were composed by humans or computers 是 told 所带的宾语从句。were asked 后的 to guess 与 (to) rate how much they liked each one 由 and then 连接，第二个不定式省略 to；rate 与 guess 属于同一层级，不是独立的主句谓语。how much they liked each one 作 rate 的宾语。
 
 ## Sentence 27
 
