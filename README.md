@@ -60,6 +60,17 @@ As researchers on aging noted recently, no treatment on the market today has bee
 
 本句的主干是 Many theorists believe...，believe 后接省略 that 的宾语从句，宾语从句的主干是 the ideal boss should lead from behind。taking pride in collective accomplishment 和 giving credit where it is due 是并列的现在分词短语，逻辑主语均为 the ideal boss，补充说明其领导方式；lead 位于宾语从句中，并非主句谓语。where it is due 修饰 giving credit，传统上可称地点状语从句，但这里表示抽象的“在应该给予肯定之处／向应获肯定的人”；it 指 credit。
 
+### Sentence 12
+
+> As far as goods transport is concerned, growth is due to a large extent to changes in the European economy and its system of production.
+
+> #### 原语法笔记
+> 本句的主干是 growth is due to changes；“As far as... is concerned...”意为“对…来说；就…而言”，引出个人的观点与看法，也可以说“So far as... is concerned...”；“to a large extent”意为“在很大程度上”，作程度状语。
+
+#### 正确语法笔记
+
+本句的主干是 growth is due to changes；“As far as... is concerned...”意为“对…来说；就…而言”，在本句中限定讨论范围为货物运输，并不专门表示个人观点，也可以说“So far as... is concerned...”；“to a large extent”意为“在很大程度上”，作程度状语。
+
 ### Sentence 14
 
 > Lee Hall’s analysis of figures comparing the times of the fires and the proportion of seed that germinated was done in a lot of detail-very impressive.

@@ -18,7 +18,7 @@ As far as goods transport is concerned, growth is due to a large extent to chang
 
 ### 语法笔记
 
-本句的主干是 growth is due to changes；“As far as... is concerned...”意为“对…来说；就…而言”，引出个人的观点与看法，也可以说“So far as... is concerned...”；“to a large extent”意为“在很大程度上”，作程度状语。
+本句的主干是 growth is due to changes；“As far as... is concerned...”意为“对…来说；就…而言”，在本句中限定讨论范围为货物运输，并不专门表示个人观点，也可以说“So far as... is concerned...”；“to a large extent”意为“在很大程度上”，作程度状语。
 
 ## Sentence 13
 
