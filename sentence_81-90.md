@@ -64,11 +64,11 @@ Her contribution to physics had been immense, not only in her own work, the impo
 
 The taxonomist sometimes overlooks whole species in favour of those groups currently under study, while the ecologist often collects only a limited number of specimens of each species, thus reducing their value for taxonomic investigations.
 
-> 分类学家们有时会忽略整个物种而选择当时正在研究的那些物种群，而生态学家常常只收集每个物种有限的几个样本，因此就降低了分类研究的价值。
+> 分类学家有时会为了关注当前研究的类群而完全忽略某些物种；生态学家则往往只收集每个物种的少量标本，从而降低这些标本在分类学研究中的价值。
 
 ### 语法笔记
 
-本句是由 while 连接的并列句，前一分句的主干是 The taxonomist overlooks whole species，后一分句的主干是 the ecologist collects only a limited number of specimens of each species。句末的 thus reducing their value for taxonomic investigations 作整个句子的结果状语。
+本句由 while 连接两个分句，前一分句的主干是 The taxonomist sometimes overlooks whole species，后一分句的主干是 the ecologist often collects only a limited number of specimens of each species。句末 thus reducing their value for taxonomic investigations 是结果状语，直接承接后一个分句中标本采集数量有限这一情况；their 指所采集的标本，降低的是标本用于分类学研究的价值。
 
 ## Sentence 88
 
