@@ -74,10 +74,10 @@ The taxonomist sometimes overlooks whole species in favour of those groups curre
 
 Many CEOs combine two opposing characteristics: confidence-that is, the belief that they’re capable of great achievements-with a high level of anxiety, a fear of missing targets, whether set by themselves or by the directors of the company.
 
-> 许多CEO都有两种相反的特征：自信——即相信自己有能力取得巨大成就——高度的焦虑，害怕自己或公司董事设定的目标落空。
+> 许多首席执行官同时具有两种相反的特征：既有自信，即相信自己能够取得巨大成就，也有高度焦虑，即害怕未能达到自己或公司董事设定的目标。
 
 ### 语法笔记
-本句的主干是 Many CEOs combine two opposing characteristics。冒号后的内容是对前面 two opposing characteristics 的具体阐述，that is, the belief that they're capable of great achievements 对 confidence 起到解释说明的作用；a fear of missing targets 作插入语，解释 a high level of anxiety；whether 引导让步状语从句，whether 后省略了 they are。
+本句的主干是 Many CEOs combine two opposing characteristics。冒号后具体说明这两种特征，采用 combine confidence with a high level of anxiety 的搭配。that is, the belief that they’re capable of great achievements 解释 confidence，其中 that 从句说明 belief 的内容。a fear of missing targets 是 a high level of anxiety 的同位语。whether set by themselves or by the directors of the company 是让步性的省略结构，可展开为 whether the targets are set by themselves or by the directors of the company，表示不论目标由谁设定；被省略的主语指 targets，themselves 指 CEOs。
 
 ## Sentence 89
 
