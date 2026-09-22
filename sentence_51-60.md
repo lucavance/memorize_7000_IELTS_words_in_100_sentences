@@ -34,7 +34,7 @@ Travel has existed since the beginning of time, when primitive man set out, ofte
 
 This is why composers often introduce a key note in the beginning of a song, spend most of the rest of the piece in the studious avoidance of the pattern, and then finally repeat it only at the end.
 
-> 这就是为什么作曲家常常在歌曲的开始定一个基调，之后在歌曲的剩余部分有意地避免这个音，最终只在结尾处重复一次。
+> 这就是为什么作曲家常常在歌曲开头引入一个主音，在乐曲其余部分的大部分时间里刻意避开这一音乐模式，直到结尾才再次呈现它。
 
 ### 语法笔记
 

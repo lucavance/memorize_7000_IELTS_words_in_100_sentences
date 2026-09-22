@@ -395,6 +395,17 @@ It would seem that... 是无人称表达，句首 It 是无具体指代的虚位
 
 本句的主干是 they've been useful in providing information and raising awareness。even though 引导让步状语从句，从句的主干是 these maps are crude。that 引导同位语从句 noise matters ... political matter，补充说明 awareness，从句中的 it 指代 noise。
 
+### Sentence 54
+
+> This is why composers often introduce a key note in the beginning of a song, spend most of the rest of the piece in the studious avoidance of the pattern, and then finally repeat it only at the end.
+
+> #### 原中文翻译
+> 这就是为什么作曲家常常在歌曲的开始定一个基调，之后在歌曲的剩余部分有意地避免这个音，最终只在结尾处重复一次。
+
+#### 正确中文翻译
+
+> 这就是为什么作曲家常常在歌曲开头引入一个主音，在乐曲其余部分的大部分时间里刻意避开这一音乐模式，直到结尾才再次呈现它。
+
 ### Sentence 56
 
 > What we’ve decided to present today is information about just three species-because we felt these gave a good indication of the processes at work in rural and urban settings as a whole.
