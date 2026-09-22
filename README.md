@@ -560,6 +560,24 @@ The difficulty ... is that ...。
 
 > 多数车票均可在有空位时用于乘坐卧铺列车。在双铺位包厢内预订一个卧铺席位须另付 25 英镑；但 Solo 票及 Special 票除外，此两类车票的票价已包含卧铺预订费用。
 
+### Sentence 78
+
+> Operating on the same principle as wind turbines, the power in sea turbines comes from tidal currents which turn blades similar to ships’ propellers, but, unlike wind, the tides are predictable and the power input is constant.
+
+> #### 原中文翻译
+> 同风力涡轮机的运行原理一样，海上涡轮机的动力来自潮汐流，在潮汐流的作用下轮机叶片像船只的螺旋桨一样转动。但与风力不同的是，潮汐是可预测的，而且其输入功率是恒定的。
+
+> #### 原语法笔记
+> 本句是一个由 but 连接的并列句。but 前分句的主干是 the power in sea turbines comes from tidal currents，but 后是两个简单句，分别是 the tides are predictable 和 the power input is constant。句首现在分词 operating 引导了一个方式状语，句中还包含了一个被 which 引导的定语从句修饰的先行词 tidal currents。
+
+#### 正确中文翻译
+
+> 海水涡轮机与风力涡轮机的运转原理相同，其动力来自潮汐流，潮汐流带动形似船舶螺旋桨的叶片转动；不过，与风不同，潮汐可以预测，输入功率也保持恒定。
+
+#### 正确语法笔记
+
+本句由 but 连接前后两部分。前半部分的主干是 the power in sea turbines comes from tidal currents，which turn blades similar to ships’ propellers 是修饰 tidal currents 的定语从句，其中形容词短语 similar to ships’ propellers 修饰 blades。后半部分由 and 连接 the tides are predictable 和 the power input is constant。句首 Operating on the same principle as wind turbines 从语义上说明 sea turbines 的运转原理，但主句的语法主语是 the power，分词的逻辑主语与主句主语不一致，存在悬垂修饰问题，不能直接当作规范的主语一致的分词状语。
+
 ### Sentence 79
 
 > These discoveries have led to the field known as neuroeconomics, which studies the brain’s secrets to success in an economic environment that demands innovation and being able to do things differently from competitors.
