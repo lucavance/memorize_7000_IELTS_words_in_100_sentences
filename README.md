@@ -508,6 +508,24 @@ It would seem that... 是无人称表达，句首 It 是无具体指代的虚位
 
 > 正如研究衰老的学者最近所指出的，目前市面上还没有任何疗法被证实能够减缓人体衰老——也就是分子和细胞层面损伤的累积，这种累积使我们随着年龄增长而更容易体弱多病。
 
+### Sentence 70
+
+> In common with all mammals, reptiles and birds, the remote ancestors of tortoises were marine fish and before that various more or less worm-like creatures stretching back, still in the sea, to the primeval bacteria.
+
+> #### 原中文翻译
+> 与所有的哺乳动物、爬行动物和鸟类一样，乌龟的远祖是海洋中的鱼类，更早之前，它们是海洋中各种类似蠕虫的生物，这些生物可以追溯到原始细菌。
+
+> #### 原语法笔记
+> 本句的主干是 the remote ancestors of tortoises were marine fish and worm-like creatures。其中 before that 作时间状语，that 指代前文中的 marine fish。现在分词短语 stretching back to the primeval bacteria 作后置定语修饰 creatures，still in the sea 为插入语，起补充说明的作用。
+
+#### 正确中文翻译
+
+> 与所有哺乳动物、爬行动物和鸟类一样，陆龟的远祖曾是海洋鱼类；再往前则是海中各种或多或少像蠕虫的生物，其祖先谱系可以一直追溯到原始细菌。
+
+#### 正确语法笔记
+
+本句的主干按时间顺序展开为 the remote ancestors of tortoises were marine fish and before that [they were] various more or less worm-like creatures。before that 表示“在那之前”，that 指前述海洋鱼类这一演化阶段；后一部分省略了重复的主语和 were。不能删掉 before that 后把鱼类和蠕虫状生物理解为同一阶段。stretching back...to the primeval bacteria 是分词短语，补充说明祖先谱系向更早时期的追溯；still in the sea 是插入的补充说明。
+
 ### Sentence 72
 
 > It’s true that the actual construction of the house was harmful to the environment, mainly because they had to use massive amounts of concrete-one of the biggest sources of carbon dioxide in manufacturing.
