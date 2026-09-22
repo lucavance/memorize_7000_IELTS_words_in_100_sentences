@@ -64,7 +64,7 @@ As recently as 1993, engineers made a major breakthrough by discovering so calle
 
 If a life span is a genetically determined biological characteristic, it is logically necessary to propose the existence of an internal clock, which in some way measures and controls the ageing process and which finally determines death as the last step in a fixed programme.
 
-> 若寿命是一种由遗传决定的生物特征，那从逻辑上来看，有必要提出生物钟的存在，生物钟以某种方式测量并控制老化过程，并作为一个固定程序的最后一步左右着死亡。
+> 如果寿命是一种由遗传决定的生物特征，那么从逻辑上就有必要假定存在一种体内计时机制：它以某种方式衡量并控制衰老过程，最终决定死亡，使死亡成为一个固定程序的最后一步。
 
 ### 语法笔记
 

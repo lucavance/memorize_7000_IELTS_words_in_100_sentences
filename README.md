@@ -734,6 +734,17 @@ The difficulty ... is that ...。
 
 本句的主干是 engineers made a major breakthrough。by discovering so called turbo codes 作方式状语；which 引导非限制性定语从句修饰 turbo codes，come 和 play 是从句中的并列谓语。the maximum rate 后的 that data can be transmitted reliably 是定语从句，相当于 at which data can be transmitted reliably，修饰 rate，而不是说明其内容的同位语从句。reliably 表示可靠地，不是安全地。As recently as 1993 和 now 以原文写作时点为参照，不能理解成相对于读者今天的时间。
 
+### Sentence 97
+
+> If a life span is a genetically determined biological characteristic, it is logically necessary to propose the existence of an internal clock, which in some way measures and controls the ageing process and which finally determines death as the last step in a fixed programme.
+
+> #### 原中文翻译
+> 若寿命是一种由遗传决定的生物特征，那从逻辑上来看，有必要提出生物钟的存在，生物钟以某种方式测量并控制老化过程，并作为一个固定程序的最后一步左右着死亡。
+
+#### 正确中文翻译
+
+> 如果寿命是一种由遗传决定的生物特征，那么从逻辑上就有必要假定存在一种体内计时机制：它以某种方式衡量并控制衰老过程，最终决定死亡，使死亡成为一个固定程序的最后一步。
+
 ### Sentence 100
 
 > Eliminating the secrecy surrounding pay by openly communicating everyone’s remuneration, publicizing performance bonuses and allocating annual salary increases in a lump sum rather than spreading them out over an entire year are examples of actions that will make rewards more visible and potentially more motivating.
