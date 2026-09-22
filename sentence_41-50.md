@@ -34,7 +34,7 @@ A final theory is related to group behaviour , and suggests that sea mammals can
 
 From earliest childhood we are so bound up with our system of numeration that it is a feat of imagination to consider the problems faced by early humans who had not yet developed this facility.
 
-> 从幼儿时期开始，我们就与自身的计算系统密切相关，以至于考虑到还未形成这种能力的早期人类所面临的问题，仅仅是想象就让我们觉得可怕。
+> 我们从幼年起就与自己的计数系统密不可分，因此，要设想尚未具备计数能力的早期人类所面临的问题，需要相当强的想象力。
 
 ### 语法笔记
 
