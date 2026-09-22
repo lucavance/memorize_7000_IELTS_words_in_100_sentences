@@ -501,6 +501,17 @@ It would seem that... 是无人称表达，句首 It 是无具体指代的虚位
 
 > 我们从幼年起就与自己的计数系统密不可分，因此，要设想尚未具备计数能力的早期人类所面临的问题，需要相当强的想象力。
 
+### Sentence 46
+
+> We have also negotiated a range of benefits for staff such as discounted private healthcare and a car purchase scheme, along with a number of one-off deals with hotels and amusement parks.
+
+> #### 原中文翻译
+> 我们也已经为员工争取到一系列优惠福利，例如享受带有折扣的私人医疗保健、购车计划以及一些与酒店和游乐场的一次性交易。
+
+#### 正确中文翻译
+
+> 我们还通过协商为员工争取了一系列福利，例如享受折扣的私人医疗保健和购车计划，以及与酒店、游乐场商定的一些一次性优惠安排。
+
 ### Sentence 48
 
 > The typical way of talking to a baby-high-pitched, exaggerated and repetitious-is a source of fascination for linguists who hope to understand how “baby talk” impacts on learning.

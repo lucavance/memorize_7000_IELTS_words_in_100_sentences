@@ -54,7 +54,7 @@ One of my purposes in writing this book is to give readers who haven’t had the
 
 We have also negotiated a range of benefits for staff such as discounted private healthcare and a car purchase scheme, along with a number of one-off deals with hotels and amusement parks.
 
-> 我们也已经为员工争取到一系列优惠福利，例如享受带有折扣的私人医疗保健、购车计划以及一些与酒店和游乐场的一次性交易。
+> 我们还通过协商为员工争取了一系列福利，例如享受折扣的私人医疗保健和购车计划，以及与酒店、游乐场商定的一些一次性优惠安排。
 
 ### 语法笔记
 
