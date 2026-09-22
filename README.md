@@ -902,11 +902,11 @@ The difficulty ... is that ...。
 
 #### 正确中文翻译
 
-> 通过在两个相距甚远的地点测定凌日发生的时间，天文学家小组可以计算出视差角——即由于观测者位置不同而产生的天体视位置差异。
+> 通过在两个相距甚远的地点测定凌日持续的时间，天文学家小组可以计算出视差角——即由于观测者位置不同而产生的天体视位置差异。
 
 #### 正确语法笔记
 
-本句的主干是 teams of astronomers could calculate the parallax angle。By timing the transit from two widely-separated locations 是方式状语，timing 表示测定时间。破折号后的 the apparent difference... 是 parallax angle 的同位语。due to a difference in the observer’s position 说明视位置差异产生的原因，修饰前面的 difference；apparent 在这里表示观测到的表观位置，并非“明显的”。
+本句的主干是 teams of astronomers could calculate the parallax angle。By timing the transit from two widely-separated locations 是方式状语，timing 在这里表示计时，即测定凌日持续的时间。破折号后的 the apparent difference... 是 parallax angle 的同位语。due to a difference in the observer’s position 说明视位置差异产生的原因，修饰前面的 difference；apparent 在这里表示观测到的表观位置，并非“明显的”。
 
 ### Sentence 82
 
