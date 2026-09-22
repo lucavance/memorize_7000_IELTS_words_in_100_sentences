@@ -27,6 +27,17 @@ As researchers on aging noted recently, no treatment on the market today has bee
 
 ## 中文翻译、语法结构讲解等错误
 
+### Sentence 03
+
+> Migration is a complex issue, and biologists define it differently, depending in part on what sorts of animals they study.
+
+> #### 原语法笔记
+> 本句是一个由 and 连接的并列句。前一个分句的主干是 Migration is a... issue，后一个分句的主干是 biologists define it。现在分词短语 depending in part on what sorts of animals they study 作伴随状语，其中 what 引导宾语从句，作 depending on 的宾语；they study是省略 that 的定语从句，修饰 animals。
+
+#### 正确语法笔记
+
+本句由 and 连接两个分句，主干分别是 Migration is a complex issue 和 biologists define it differently。depending in part on... 是补充性的现在分词短语，说明生物学家如何定义迁徙所依据的部分条件，逻辑上对应后一个分句。what sorts of animals they study 整体是间接疑问从句，作介词 on 的宾语；从句内部，they 是主语，study 是谓语，what sorts of animals 整体是前置的疑问宾语。they study 不是另一个修饰 animals 的定语从句。
+
 ### Sentence 06
 
 > The psychological laboratory has a strong claim to legitimacy and evokes trust and confidence in those who perform there.
