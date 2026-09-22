@@ -34,7 +34,7 @@ However, if one of the parties in a conflict sees human resources as simply a mo
 
 Summer leaves are green because they are full of chlorophyll, the molecule that captures sunlight and converts that energy into new building materials for the tree.
 
-> 夏天的叶子是绿色的，因为它们充满了叶绿素，这种分子能吸收阳光，然后将能量转化为树的新构造材料。
+> 夏天的叶子是绿色的，因为它们充满了叶绿素，这种分子能吸收阳光，然后将能量转化为供树木生长的新材料。
 
 ### 语法笔记
 

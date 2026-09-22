@@ -262,6 +262,17 @@ It would seem that... 是无人称表达，句首 It 是无具体指代的虚位
 
 本句的主干是 The teacher’s task is to assist ..., and ... to make ...。to assist the students to apply... 和 to make it easily accessible to consciousness 是由 and 连接的两个不定式短语，共同作表语。assist the students to apply... 表示“帮助学生运用……”。what they have learned paraconsciously 整体作 apply 的宾语；结合前文关于听音乐时自动习得材料的说明，paraconsciously 修饰 have learned，表示材料是在非充分自觉的状态下学到的。in doing so 指帮助学生运用所学的过程。make it easily accessible 是 make + 宾语 + 宾语补足语结构；it 指所学内容，accessible 是形容词宾补，easily 修饰 accessible，to consciousness 说明这些知识能够进入意识层面。
 
+### Sentence 24
+
+> Summer leaves are green because they are full of chlorophyll, the molecule that captures sunlight and converts that energy into new building materials for the tree.
+
+> #### 原中文翻译
+> 夏天的叶子是绿色的，因为它们充满了叶绿素，这种分子能吸收阳光，然后将能量转化为树的新构造材料。
+
+#### 正确中文翻译
+
+> 夏天的叶子是绿色的，因为它们充满了叶绿素，这种分子能吸收阳光，然后将能量转化为供树木生长的新材料。
+
 ### Sentence 25
 
 > If clothing fails to meet these standards, as determined by the employee’s supervisor, the employee will be asked not to wear the inappropriate item to work again.
