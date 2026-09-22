@@ -723,6 +723,24 @@ It would seem that... 是无人称表达，句首 It 是无具体指代的虚位
 
 本句的主干按时间顺序展开为 the remote ancestors of tortoises were marine fish and before that [they were] various more or less worm-like creatures。before that 表示“在那之前”，that 指前述海洋鱼类这一演化阶段；后一部分省略了重复的主语和 were。不能删掉 before that 后把鱼类和蠕虫状生物理解为同一阶段。stretching back...to the primeval bacteria 是分词短语，补充说明祖先谱系向更早时期的追溯；still in the sea 是插入的补充说明。
 
+### Sentence 71
+
+> It is finished manufactured products that dominate the flow of trade, and, thanks to technological advances such as lightweight components, manufactured goods themselves have tended to become lighter and less bulky.
+
+> #### 原中文翻译
+> 正是制成品主导着贸易流动，而且由于技术进步，比如轻量化的部件，制成品本身趋向于变得更轻便而不那么笨重。
+
+> #### 原语法笔记
+> 本句中 and 连接了两个并列的句子。前一个分句是 that 引导的强调句，实际的主语是 finished manufactured products，谓语是 dominate。后一个分句中 thanks to 是介词短语，主干是 manufactured goods have tended to become lighter and less bulky。
+
+#### 正确中文翻译
+
+> 正是制成品主导着贸易流动，而且由于轻量化部件等技术进步，制成品本身趋向于重量更轻、体积更小。
+
+#### 正确语法笔记
+
+本句中 and 连接了两个并列的句子。前一个分句采用 It is...that... 强调结构，实际的主语是 finished manufactured products，谓语是 dominate。后一个分句中 thanks to technological advances such as lightweight components 是表示原因的介词短语，主干是 manufactured goods have tended to become lighter and less bulky。
+
 ### Sentence 72
 
 > It’s true that the actual construction of the house was harmful to the environment, mainly because they had to use massive amounts of concrete-one of the biggest sources of carbon dioxide in manufacturing.

@@ -4,11 +4,11 @@
 
 It is finished manufactured products that dominate the flow of trade, and, thanks to technological advances such as lightweight components, manufactured goods themselves have tended to become lighter and less bulky.
 
-> 正是制成品主导着贸易流动，而且由于技术进步，比如轻量化的部件，制成品本身趋向于变得更轻便而不那么笨重。
+> 正是制成品主导着贸易流动，而且由于轻量化部件等技术进步，制成品本身趋向于重量更轻、体积更小。
 
 ### 语法笔记
 
-本句中 and 连接了两个并列的句子。前一个分句是 that 引导的强调句，实际的主语是 finished manufactured products，谓语是 dominate。后一个分句中 thanks to 是介词短语，主干是 manufactured goods have tended to become lighter and less bulky。
+本句中 and 连接了两个并列的句子。前一个分句采用 It is...that... 强调结构，实际的主语是 finished manufactured products，谓语是 dominate。后一个分句中 thanks to technological advances such as lightweight components 是表示原因的介词短语，主干是 manufactured goods have tended to become lighter and less bulky。
 
 ## Sentence 72
 
