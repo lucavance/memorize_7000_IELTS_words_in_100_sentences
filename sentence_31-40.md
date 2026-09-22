@@ -44,7 +44,7 @@ As these ancestral tortoises settled on the individual islands, the different po
 
 The continuous and reckless use of synthetic chemicals for the control of pests which pose a threat to agricultural crops and human health is proving to be counter-productive.
 
-> 害虫危害农作物和人类健康，使用人工合成化学品是为了控制害虫，从而保护农作物和人类健康。但连续不计后果地使用，结果产生了相反的效果。
+> 为控制危害农作物和人类健康的害虫而持续、不计后果地使用合成化学品，正显示出适得其反的效果。
 
 ### 语法笔记
 
