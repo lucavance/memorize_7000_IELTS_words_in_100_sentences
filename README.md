@@ -193,6 +193,17 @@ As researchers on aging noted recently, no treatment on the market today has bee
 
 本句的主干是 many researchers switched to autoganzfeld tests。破折号后的内容是对 autoganzfeld tests 的解释说明，which 引导一个定语从句，修饰 an automated variant of the technique。the technique 指 ganzfeld tests (来自该句前文)。
 
+### Sentence 68
+
+> As researchers on aging noted recently, no treatment on the market today has been proved to slow human aging-the build-up of molecular and cellular damage that increases vulnerability to infirmity as we grow older.
+
+> #### 原中文翻译
+> 就像老龄化研究者最近所指出的那样，目前市面上没有一种疗法被证实可以减缓人体衰老——随着我们慢慢变老，分子与细胞损坏也逐渐增加，这就增加了我们体弱多病的几率。
+
+#### 正确中文翻译
+
+> 正如研究衰老的学者最近所指出的，目前市面上还没有任何疗法被证实能够减缓人体衰老——也就是分子和细胞层面损伤的累积，这种累积使我们随着年龄增长而更容易体弱多病。
+
 ### Sentence 73
 
 > The difficulty with the evidence produced by these studies, fascinating as they are in collecting together anecdotes and apparent similarities and exceptions, is that they are not what we would today call norm-referenced.
