@@ -84,7 +84,7 @@ The typical way of talking to a baby-high-pitched, exaggerated and repetitious-i
 
 Psychologists have long held that a person’s character cannot undergo a transformation in any meaningful way and that the key traits of personality are determined at a very young age.
 
-> 心理学家们一直认为，一个人的性格不可能以任何有意义的方式发生转变，人格的关键特征在很小的时候就确定了。
+> 心理学家长期以来一直认为，一个人的性格不会发生实质性的转变，人格的关键特征在很小的时候就已确定。
 
 ### 语法笔记
 

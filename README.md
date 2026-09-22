@@ -523,6 +523,17 @@ It would seem that... 是无人称表达，句首 It 是无具体指代的虚位
 
 > 人们对婴儿说话时，通常会提高声调、夸张表达并反复重复；这种说话方式令希望了解它如何影响学习的语言学家着迷。
 
+### Sentence 49
+
+> Psychologists have long held that a person’s character cannot undergo a transformation in any meaningful way and that the key traits of personality are determined at a very young age.
+
+> #### 原中文翻译
+> 心理学家们一直认为，一个人的性格不可能以任何有意义的方式发生转变，人格的关键特征在很小的时候就确定了。
+
+#### 正确中文翻译
+
+> 心理学家长期以来一直认为，一个人的性格不会发生实质性的转变，人格的关键特征在很小的时候就已确定。
+
 ### Sentence 50
 
 > It was only when the hull was hanging freely from the lifting frame, clear of the seabed and the suction effect of the surrounding mud, that the salvage operation progressed to the second stage.
