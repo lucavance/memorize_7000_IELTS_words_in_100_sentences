@@ -44,11 +44,11 @@ This is why composers often introduce a key note in the beginning of a song, spe
 
 In its most general sense, prescriptivism is the view that one variety of language has an inherently higher value than others, and that this ought to be imposed on the whole of the speech community.
 
-> 就其最通常的意义而言，规范主义认为某种语言本来就比其他语言具有更高的价值，并且这一点应该应用于整个语言社会。
+> 从最广义上说，规范主义认为，某一种语言变体天生就比其他变体更有价值，因而应当在整个言语社群中强制推行这种变体。
 
 ### 语法笔记
 
-本句的主干是 prescriptivism is the view。and 连接了两个同位语从句，构成并列结构，共同解释 view，其中代词 this 指代 one variety of language has an inherently higher value than others 这个观点。
+本句的主干是 prescriptivism is the view。and 连接两个由 that 引导的同位语从句，共同说明 view 的内容。one variety of language 指一种语言变体；结合后文对受推崇的标准书面语及相应正式口语的说明，this 指这种被认为更优越、应推广为规范的语言变体，不宜仅解释为“某变体价值更高”这一抽象观点。
 
 ## Sentence 56
 

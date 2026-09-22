@@ -406,6 +406,24 @@ It would seem that... 是无人称表达，句首 It 是无具体指代的虚位
 
 > 这就是为什么作曲家常常在歌曲开头引入一个主音，在乐曲其余部分的大部分时间里刻意避开这一音乐模式，直到结尾才再次呈现它。
 
+### Sentence 55
+
+> In its most general sense, prescriptivism is the view that one variety of language has an inherently higher value than others, and that this ought to be imposed on the whole of the speech community.
+
+> #### 原中文翻译
+> 就其最通常的意义而言，规范主义认为某种语言本来就比其他语言具有更高的价值，并且这一点应该应用于整个语言社会。
+
+> #### 原语法笔记
+> 本句的主干是 prescriptivism is the view。and 连接了两个同位语从句，构成并列结构，共同解释 view，其中代词 this 指代 one variety of language has an inherently higher value than others 这个观点。
+
+#### 正确中文翻译
+
+> 从最广义上说，规范主义认为，某一种语言变体天生就比其他变体更有价值，因而应当在整个言语社群中强制推行这种变体。
+
+#### 正确语法笔记
+
+本句的主干是 prescriptivism is the view。and 连接两个由 that 引导的同位语从句，共同说明 view 的内容。one variety of language 指一种语言变体；结合后文对受推崇的标准书面语及相应正式口语的说明，this 指这种被认为更优越、应推广为规范的语言变体，不宜仅解释为“某变体价值更高”这一抽象观点。
+
 ### Sentence 56
 
 > What we’ve decided to present today is information about just three species-because we felt these gave a good indication of the processes at work in rural and urban settings as a whole.
