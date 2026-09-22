@@ -14,7 +14,7 @@ By timing the transit from two widely-separated locations, teams of astronomers 
 
 Victimised pupils are more likely to experience difficulties with interpersonal relationships as adults, while children who persistently bully are more likely to grow up to be physically violent, and convicted of anti-social offences.
 
-> 受欺负的小学生长大成人后更有可能经历人际关系方面的困境，而一直欺负别人的儿童长大后更有可能实施身体暴力，并因此被判处反社会的违法罪行。
+> 受欺负的学生成年后更可能在人际关系方面遇到困难，而持续欺凌他人的儿童长大后更可能有肢体暴力行为，并因反社会违法行为被定罪。
 
 ### 语法笔记
 

@@ -622,6 +622,17 @@ The difficulty ... is that ...。
 
 本句的主干是 teams of astronomers could calculate the parallax angle。By timing the transit from two widely-separated locations 是方式状语，timing 表示测定时间。破折号后的 the apparent difference... 是 parallax angle 的同位语。due to a difference in the observer’s position 说明视位置差异产生的原因，修饰前面的 difference；apparent 在这里表示观测到的表观位置，并非“明显的”。
 
+### Sentence 82
+
+> Victimised pupils are more likely to experience difficulties with interpersonal relationships as adults, while children who persistently bully are more likely to grow up to be physically violent, and convicted of anti-social offences.
+
+> #### 原中文翻译
+> 受欺负的小学生长大成人后更有可能经历人际关系方面的困境，而一直欺负别人的儿童长大后更有可能实施身体暴力，并因此被判处反社会的违法罪行。
+
+#### 正确中文翻译
+
+> 受欺负的学生成年后更可能在人际关系方面遇到困难，而持续欺凌他人的儿童长大后更可能有肢体暴力行为，并因反社会违法行为被定罪。
+
 ### Sentence 90
 
 > This approach is summarized in the statement that it is the task of the grammarian to describe, not to prescribe-to record the facts of linguistic diversity, and not to attempt the impossible tasks of evaluating language variation or halting language change.
