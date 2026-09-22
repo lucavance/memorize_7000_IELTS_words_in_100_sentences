@@ -80,7 +80,7 @@ The impression is that the logical nature of the textbooks and their comprehensi
 
 Most tickets may be used for travel by Sleeper, subject to availability, and a reservation in a two-berth cabin can be made for £25, except in the case of Solo and Special tickets, which include Sleeper reservation in the fare.
 
-> 多数车票均可在有空位时用于预订卧铺席位。预订一间双人卧铺包厢须另付 25 英镑；但 Solo 票及 Special 票除外，此两类车票的票价已包含卧铺预订费用。
+> 多数车票均可在有空位时用于乘坐卧铺列车。在双铺位包厢内预订一个卧铺席位须另付 25 英镑；但 Solo 票及 Special 票除外，此两类车票的票价已包含卧铺预订费用。
 
 ### 语法笔记
 
